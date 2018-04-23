@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mteval>
+<refset setid="iwslt2014-tst2013" srclang="english" trglang="german" refid="ref">
+<doc docid="1666" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/shabana_basij_rasikh_dare_to_educate_afghan_girls.html</url>
+<description>Man stelle sich ein Land vor, in dem Mädchen heimlich zur Schule gehen müssen. In dem es tödliche Folgen hat, wenn sie beim Lernen erwischt werden. So ein Land war Afghanistan unter den Taliban, und einige dieser Gefahren bestehen heute noch. Die 22-jährige Shabana Basij-Rasikh leitet in Afghanistan eine Mädchenschule. Begeistert steht sie als lebendiger Beweis für den Glauben einer Familie an ihre Tochter – und erzählt die Geschichte eines tapferen Mannes, der sich nicht einschüchtern ließ. </description>
+<keywords>education,global issues,women</keywords>
+<talkid>1666</talkid>
+<title>Shabana Basij-Rasikh: Eine Schuldbildung für afghanische Mädchen wagen</title>
+<seg id="1"> Als ich 11 Jahre alt war, wurde ich eines Morgens von den Klängen heller Freude geweckt. </seg>
+<seg id="2"> Mein Vater hörte sich auf seinem kleinen, grauen Radio die Nachrichtensendung der BBC an. </seg>
+<seg id="3"> Er sah sehr glücklich aus, was damals ziemlich ungewöhnlich war, da ihn die Nachrichten meistens deprimierten. </seg>
+<seg id="4"> Er rief: "Die Taliban sind weg!" </seg>
+<seg id="5"> Ich wusste nicht, was das bedeutete, aber es machte meinen Vater offensichtlich sehr, sehr glücklich. </seg>
+<seg id="6"> "Jetzt kannst du auf eine richtige Schule gehen," sagte er. </seg>
+<seg id="7"> Diesen Morgen werde ich niemals vergessen. </seg>
+<seg id="8"> Eine richtige Schule. </seg>
+<seg id="9"> Die Taliban ergriffen die Macht in Afghanistan, als ich sechs war, und verboten es Mädchen, zur Schule zu gehen. </seg>
+<seg id="10"> Deshalb verkleidete ich mich fünf Jahre lang als Junge und begleitete meine ältere Schwester, die nicht mehr alleine ausgehen durfte, zu einer geheimen Schule. </seg>
+<seg id="11"> Nur so konnten wir beide zur Schule gehen. </seg>
+<seg id="12"> Jeden Tag nahmen wir einen anderen Weg, sodass niemand erraten konnte, wohin wir gingen. </seg>
+<seg id="13"> Wir versteckten unsere Bücher in Einkaufstüten, damit es so aussah, als würden wir nur einkaufen gehen. </seg>
+<seg id="14"> Unterrichtet wurden wir in einem Haus, über 100 Mädchen in einem kleinen Wohnzimmer. </seg>
+<seg id="15"> Im Winter war es gemütlich, aber im Sommer war es unglaublich heiß. </seg>
+<seg id="16"> Wir alle wussten, dass wir unser Leben riskierten: Lehrer, Schüler und unsere Eltern. </seg>
+<seg id="17"> Immer wieder musste der Unterricht plötzlich für eine Woche ausfallen, weil die Taliban Verdacht geschöpft hatten. </seg>
+<seg id="18"> Wir waren uns nie sicher, wie viel sie über uns wussten. </seg>
+<seg id="19"> Verfolgten sie uns? </seg>
+<seg id="20"> Wussten sie, wo wir wohnen? </seg>
+<seg id="21"> Wir hatten Angst, aber wir wollten trotzdem zur Schule gehen. </seg>
+<seg id="22"> Ich hatte großes Glück in einer Familie aufzuwachsen, in der Bildung als wichtig galt und Töchter geschätzt wurden. </seg>
+<seg id="23"> Mein Großvater war seiner Zeit weit voraus. </seg>
+<seg id="24"> Ein Außenseiter aus einer entlegenen Provinz Afghanistans. Er bestand darauf, seine Tochter – meine Mutter – zur Schule zu schicken und wurde dafür von seinem Vater verstoßen. </seg>
+<seg id="25"> Meine gebildete Mutter aber wurde Lehrerin. </seg>
+<seg id="26"> Das ist sie. </seg>
+<seg id="27"> Vor zwei Jahren ging sie in den Ruhestand, nur um unser Haus in eine Schule für Mädchen und Frauen aus der Nachbarschaft zu verwandeln. </seg>
+<seg id="28"> Und mein Vater – hier zu sehen – war der Erste in seiner Familie, der jemals eine Schulbildung erhielt. </seg>
+<seg id="29"> Für ihn war stets klar, dass seine Kinder eine Ausbildung erhalten würden, auch seine Töchter, trotz der Taliban, trotz aller Risiken. </seg>
+<seg id="30"> Er sah es als ein viel größeres Risiko an, seine Kinder nicht zur Schule zu schicken. </seg>
+<seg id="31"> Ich weiß noch genau, dass ich in den Jahren unter den Taliban manchmal so frustriert war von unserem Leben, von der ständigen Angst und der Perspektivlosigkeit, </seg>
+<seg id="32"> dass ich gute Lust hatte, aufzugeben. Aber mein Vater sagte dann: "Tochter, hör mir zu. Du kannst in deinem Leben alles verlieren. </seg>
+<seg id="33"> Dein Geld kann gestohlen werden. Du kannst im Krieg aus deinem Haus vertrieben werden. </seg>
+<seg id="34"> Doch eine Sache wird dir immer bleiben: Das, was hier drin ist. Und selbst wenn wir mit unserem Blut für deine Schulgebühren zahlen müssen, werden wir das tun. </seg>
+<seg id="35"> Also – willst du immer noch aufgeben?" </seg>
+<seg id="36"> Heute bin ich 22 Jahre alt. </seg>
+<seg id="37"> Ich bin in einem Land aufgewachsen, das durch Jahrzehnte des Krieges zerstört worden ist. </seg>
+<seg id="38"> Weniger als 6 % der Frauen meines Alters haben einen höheren Abschluss als den Sekundarabschluss. Und wenn meine Familie sich nicht so stark für meine Schulbildung eingesetzt hätte, wäre auch ich eine dieser Frauen. </seg>
+<seg id="39"> Stattdessen stehe ich heute hier, als stolze Absolventin des Middlebury College. </seg>
+<seg id="40"> Als ich nach Afghanistan zurückkehrte, war mein Großvater, der, der von seiner Familie verstoßen wurde, weil er es gewagt hat, seine Töchter zur Schule zu schicken, einer der Ersten, der mir gratulierte. </seg>
+<seg id="41"> Er prahlt nicht nur mit meinem Hochschulabschluss, sondern auch damit, dass ich die erste Frau war und bin, die ihn mit dem Auto durch Kabul fährt. </seg>
+<seg id="42"> Meine Familie glaubt an mich. </seg>
+<seg id="43"> Ich habe große Träume, aber meine Familie hat noch größere Träume für mich. </seg>
+<seg id="44"> Deshalb bin ich globale Botschafterin für 10x10, einer weltweiten Kampagne für die Bildung von Frauen. </seg>
+<seg id="45"> Deshalb habe ich geholfen, SOLA zu gründen, das erste und vielleicht einzige Internat für Mädchen in Afghanistan, einem Land, in dem der Schulbesuch für Mädchen immer noch riskant ist. </seg>
+<seg id="46"> Es ist wundervoll zu sehen, wie die Schülerinnen an meiner Schule mit großem Ehrgeiz alle ihnen gebotenen Chancen wahrnehmen möchten. </seg>
+<seg id="47"> Und zu sehen, wie ihre Eltern und Väter für sie einstehen, wie damals auch meine Eltern für mich, trotz und entgegen aller abschreckenden Widerstände. </seg>
+<seg id="48"> So wie Ahmed. Das ist nicht sein wirklicher Name und ich kann auch sein Gesicht nicht zeigen, aber Ahmed ist der Vater einer meiner Schülerinnen. </seg>
+<seg id="49"> Vor knapp einem Monat waren seine Tochter und er auf dem Heimweg von SOLA in ihr Dorf und sie sind dem Tod durch eine Bombe am Straßenrand nur um wenige Minuten entkommen. </seg>
+<seg id="50"> Als er zu Hause ankam, klingelte das Telefon und eine Stimme drohte ihm, falls er seine Tochter weiter zur Schule schickte, würden sie es erneut versuchen. </seg>
+<seg id="51"> Darauf sagte er: "Tötet mich jetzt, wenn ihr möchtet, doch ich werde nicht die Zukunft meiner Tochter aufs Spiel setzen wegen eurer altertümlichen und überholten Vorstellungen." </seg>
+<seg id="52"> Was Afghanistan angeht, so habe ich etwas erkannt, das im Westen oftmals abgetan wird: Hinter den meisten von uns, die Erfolg haben, steht ein Vater, der den Wert seiner Tochter erkennt und dem bewusst ist, dass ihr Erfolg auch sein Erfolg ist. </seg>
+<seg id="53"> Das soll nicht heißen, dass unsere Mütter keine wichtige Rolle in unserem Erfolg spielen. </seg>
+<seg id="54"> Vielmehr sind sie häufig diejenigen, die sich anfänglich und überzeugend für eine vielversprechende Zukunft ihrer Töchter aussprechen. Doch in einer Gesellschaft wie der in Afghanistan ist die Unterstützung der Männer unverzichtbar. </seg>
+<seg id="55"> Unter den Taliban gingen nur wenige hundert Mädchen zur Schule – denn es war ja illegal. </seg>
+<seg id="56"> Heute jedoch drücken in Afghanistan über drei Millionen Mädchen die Schulbank. </seg>
+<seg id="57"> Afghanistan erscheint, von Amerika aus betrachtet, so anders. </seg>
+<seg id="58"> Die Amerikaner erkennen, wie unsicher solche Veränderungen sind. </seg>
+<seg id="59"> Ich befürchte, dass die Veränderungen nicht von Dauer sind und sich mit dem Abzug der US-Truppen wieder alles ändert. </seg>
+<seg id="60"> Doch wenn ich in Afghanistan bin, wenn ich die Schülerinnen in meiner Schule sehe, und ihre Eltern, die sich für sie einsetzen, die sie ermutigen, dann sehe ich eine vielversprechende Zukunft und einen langanhaltenden Wandel. </seg>
+<seg id="61"> Afghanistan ist für mich ein Land der Hoffnung und der unbegrenzten Möglichkeiten, und daran erinnern mich jeden Tag die Mädchen, die SOLA besuchen. </seg>
+<seg id="62"> Genau wie ich haben sie große Träume. </seg>
+<seg id="63"> Vielen Dank. </seg>
+</doc>
+<doc docid="1617" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/ernesto_sirolli_want_to_help_someone_shut_up_and_listen.html</url>
+<description>Die meisten wohlmeinenden Entwicklungshelfer, die von einem Problem hören, das sie zu lösen glauben, gehen an die Arbeit. Dies, behauptet Ernesto Sirolli, ist naiv. In dieser witzigen und leidenschaftlichen Rede schlägt er vor, dass der erste Schritt, Menschen zu helfen, der ist, ihnen zuzuhören und sich ihren unternehmerischen Geist zu Nutze zu machen. Seine Empfehlung wird jedem Unternehmer helfen.</description>
+<keywords>business,development,global issues</keywords>
+<talkid>1617</talkid>
+<title>Ernesto Sirolli: Wollen Sie jemandem helfen? Mund halten und zuhören!</title>
+<seg id="1"> Alles was ich mache, auch beruflich – mein Leben – wurde geprägt von sieben Jahren der Arbeit in Afrika als junger Mann. </seg>
+<seg id="2"> von 1971 bis 1977 – ich sehe jung aus, bin es aber nicht – – habe ich in Sambia, Kenia, der Elfenbeinküste, Algerien und Somalia an Projekten der technischen Zusammenarbeit mit afrikanischen Ländern gearbeitet. </seg>
+<seg id="3"> Ich habe für eine italienische NRO gearbeitet und jedes einzelne Projekt, das wir auf die Beine stellten, scheiterte. </seg>
+<seg id="4"> Ich war verzweifelt. </seg>
+<seg id="5"> Ich, 21 Jahre, dachte, dass wir Italiener gute Menschen sind und gute Arbeit in Afrika leisteten. </seg>
+<seg id="6"> Stattdessen töteten wir alles, was wir anfassten. </seg>
+<seg id="7"> Unser erstes Projekt, was mein erstes Buch "Ripples from the Zambezi" inspirierte, war eines, in dem wir Italiener den Menschen Sambias zeigen wollten, wie Nahrung angebaut wird. </seg>
+<seg id="8"> Wir kamen mit italienischem Saatgut in Süd-Sambia an; in dieses umwerfende Tal, was zum Sambesi-Fluss führt. Wir lehrten der einheimischen Bevölkerung den Anbau italienischer Tomaten und Zucchini und... </seg>
+<seg id="9"> Natürlich hatten die Ansässigen absolut kein Interesse daran, also bezahlten wir sie für das Arbeiten, und manchmal tauchten sie auch auf. </seg>
+<seg id="10"> Wir waren erstaunt, dass es in einem so fruchtbaren Tal keine Landwirtschaft gab. </seg>
+<seg id="11"> Aber anstatt zu fragen, warum sie nichts anbauten, sagten wir einfach "Gott sei Dank, dass wir hier sind!" </seg>
+<seg id="12"> "Gerade noch rechtzeitig, um die Menschen Sambias vor dem Verhungern zu retten." </seg>
+<seg id="13"> Natürlich gedieh alles wunderbar in Afrika. </seg>
+<seg id="14"> Wir hatten diese prachtvollen Tomaten. In Italien wurden sie so groß, in Sambia so groß. </seg>
+<seg id="15"> Wir konnten es nicht glauben und sagten den Sambiern: "Schaut, wie einfach Landwirtschaft ist." </seg>
+<seg id="16"> Als die Tomaten reif und rot waren, kamen über Nacht etwa 200 Nilpferde aus dem Fluss und fraßen alles. </seg>
+<seg id="17"> Wir sagten zu den Sambiern: "Oh Gott, die Nilpferde!" </seg>
+<seg id="18"> Und sie sagten: "Ja, deswegen haben wir keine Landwirtschaft hier." </seg>
+<seg id="19"> "Warum habt ihr uns das nicht gesagt?" "Ihr habt uns niemals gefragt." </seg>
+<seg id="20"> Ich dachte nur, wir Italiener waren so tollpatschig in Afrika, aber dann sah ich, was die Amerikaner machten, was die Engländer machten, was die Franzosen machten. Nachdem ich sah, was sie taten, wurde ich ziemlich stolz auf unser Projekt in Sambia. </seg>
+<seg id="21"> Wir fütterten zumindest die Nilpferde. </seg>
+<seg id="22"> Sie sollten den Unsinn sehen – – Sie sollten den Unsinn sehen, den wir den nichtsahnenden afrikanischen Menschen beschert haben. </seg>
+<seg id="23"> Sie sollten das Buch "Dead Aid" von Dambisa Moyo lesen, sie ist eine sambische Wirtschaftswissenschaftlerin. </seg>
+<seg id="24"> Das Buch wurde 2009 veröffentlicht. </seg>
+<seg id="25"> Wir Geberländer haben dem afrikanischen Kontinent 1,5 Billionen Euro in den letzten 50 Jahren gegeben. </seg>
+<seg id="26"> Ich werde Ihnen nicht erzählen, was dieses Geld angerichtet hat. </seg>
+<seg id="27"> Lesen Sie einfach ihr Buch. </seg>
+<seg id="28"> Lesen Sie von einer Afrikanerin, was wir angerichtet haben. </seg>
+<seg id="29"> Wir westlichen Menschen sind Imperialisten, Kolonialisten, Missionare und es gibt nur zwei Arten, wie wir mit Menschen umgehen. Wir patronisieren sie oder wir sind patriarchalisch. </seg>
+<seg id="30"> Beide Wörter stammen von der lateinischen Wurzel "pater", was "Vater" bedeutet. </seg>
+<seg id="31"> Aber sie haben zwei verschiedene Bedeutungen. </seg>
+<seg id="32"> Patriarchalisch: Ich behandele jeden einer anderen Kultur, als wären sie meine Kinder. "Ich liebe euch so sehr." </seg>
+<seg id="33"> Patronisierend: Ich behandele jeden einer anderen Kultur, als wären sie meine Diener. </seg>
+<seg id="34"> Deshalb werden weiße Menschen in Afrika "bwana", Chef, genannt. </seg>
+<seg id="35"> Ich wurde wachgerüttelt, als ich das Buch "Small is Beautiful" von Schumacher las. Er sagte, vor allem in der Wirtschaftsentwicklung, wenn Menschen keine Hilfe wollen, dann lass sie in Ruhe. </seg>
+<seg id="36"> Dies sollte das erste Prinzip der Hilfe sein. </seg>
+<seg id="37"> Das erste Prinzip der Hilfe ist Respekt. </seg>
+<seg id="38"> Heute morgen legte der Herr, der diese Konferenz eröffnete, einen Stab auf den Boden und fragte: "Können Sie sich eine Stadt vorstellen, die nicht neokolonial ist?" </seg>
+<seg id="39"> Als ich 27 Jahre alt war, entschied ich mich, nur auf Menschen zu reagieren und erfand ein System namens Unternehmensförderung, bei dem niemals etwas initiiert wird, niemals jemand motiviert wird, doch man wird zum Dienstleister der örtlichen Passion, der Diener der örtlichen Menschen, die den Traum haben, eine bessere Person zu werden. </seg>
+<seg id="40"> Was man macht – man hält den Mund. </seg>
+<seg id="41"> Man erreicht niemals eine Gemeinde mit Ideen, man setzt sich mit den Einheimischen zusammen. </seg>
+<seg id="42"> Wir arbeiten nicht von Büros aus. </seg>
+<seg id="43"> Wir treffen uns in Cafés. Wir treffen uns in Kneipen. </seg>
+<seg id="44"> Wir haben keine Infrastruktur. </seg>
+<seg id="45"> Wir schließen Freundschaften und finden heraus, was die Person möchte. </seg>
+<seg id="46"> Das Wichtigste ist die Leidenschaft. </seg>
+<seg id="47"> Man kann jemandem eine Idee vermitteln. </seg>
+<seg id="48"> Wenn diese Person diese nicht mag, was soll man tun? </seg>
+<seg id="49"> Die Passion für das eigene Wachstum der Person ist das Wichtigste. </seg>
+<seg id="50"> Die Passion für das eigene Wachsen ist das Wichtigste der Menschheit. </seg>
+<seg id="51"> Wir helfen ihnen, das Wissen zu finden, denn niemand kann allein erfolgreich sein. </seg>
+<seg id="52"> Die Person mit der Idee hat vielleicht nicht das Wissen, doch es ist verfügbar. </seg>
+<seg id="53"> Vor vielen Jahren hatte ich diesen Einfall: Warum, anstatt in einer Gemeinde anzukommen und den Menschen zu sagen, was sie tun sollen, warum hören wir ihnen nicht zu? Aber nicht in Gemeindeversammlungen. </seg>
+<seg id="54"> Lassen Sie mich Ihnen ein Geheimnis verraten. </seg>
+<seg id="55"> Es gibt ein Problem mit Gemeindeversammlungen. </seg>
+<seg id="56"> Unternehmer haben niemals teil und sie werden niemals öffentlich sagen, was sie mit ihrem Geld anstellen wollen, was für Möglichkeiten sie sehen. </seg>
+<seg id="57"> Planung hat diesen blinden Fleck. </seg>
+<seg id="58"> Die klügsten Menschen der Gemeinde kennt man nicht, weil sie nie zu öffentlichen Treffen erscheinen. </seg>
+<seg id="59"> Wir arbeiten eins zu eins, um dies zu tun, muss eine soziale Infrastruktur hergestellt werden, die nicht existiert. </seg>
+<seg id="60"> Ein neuer Beruf muss geschaffen werden. </seg>
+<seg id="61"> Dies ist der Hausarzt des Unternehmens, der Hausarzt des Betriebes, der mit Ihnen im Haus, an Ihrem Küchentisch und im Café sitzt, Ihnen hilft, die Mittel zu finden, Ihre Leidenschaft in eine Art, das Leben zu bestreiten zu transformieren. </seg>
+<seg id="62"> Ich habe dies in Esperance, West-Australien, versucht. </seg>
+<seg id="63"> Ich promovierte zu der Zeit und versuchte, dem herablassenden Schwachsinn, wo wir anderen sagen, was sie tun sollen, zu entkommen. </seg>
+<seg id="64"> Und so lief ich im ersten Jahr nur durch die Straßen und hatte innerhalb der ersten drei Tage meinen ersten Kunden. Ich half ihm. Er räucherte Fisch in einer Garage, er war Maori. Ich half ihm, an ein Restaurant in Perth zu verkaufen und sich zu organisieren. Danach kamen die Fischer und sagten: "Du hast dem Maori geholfen. Kannst du uns helfen?" </seg>
+<seg id="65"> Ich half diesen 5 Fischern, zusammen zu arbeiten und diesen wunderbaren Thunfisch nicht an eine Fabrik in Albany für 60 Cents/Kilo zu verkaufen, sondern nach Japan für Sushi für 15 Dollar/Kilo. Dann kamen die Bauern zu mir und sagten: "Hey, du hast ihnen geholfen. Kannst du uns helfen?" </seg>
+<seg id="66"> In einem Jahr hatte ich 27 Projekte laufen. Die Regierung kam, um mich zu fragen: "Wie machen Sie das? </seg>
+<seg id="67"> Wie machen Sie...?" Ich sagte: "Ich mache etwas sehr, sehr Schwieriges. </seg>
+<seg id="68"> Ich halte den Mund und höre ihnen zu." </seg>
+<seg id="69"> Also – – Also sagt die Regierung: "Machen Sie es nochmal." </seg>
+<seg id="70"> Wir haben es weltweit in 300 Gemeinden gemacht. </seg>
+<seg id="71"> Wir haben 40 000 Unternehmen bei der Gründung geholfen. </seg>
+<seg id="72"> Es gibt eine neue Generation von Unternehmen, die an Einsamkeit vergehen. </seg>
+<seg id="73"> Peter Drucker, einer der besten Unternehmensberater der Geschichte, starb mit 96 vor einigen Jahren. </seg>
+<seg id="74"> Peter Drucker war Philosophieprofessor, bevor er sich mit Unternehmen beschäftigte. Peter Drucker sagte: Planung ist in Wirklichkeit unvereinbar mit einer unternehmerischen Gesellschaft und der Wirtschaft." </seg>
+<seg id="75"> Planung ist der Todeskuss des Unternehmergeistes. </seg>
+<seg id="76"> Also baut man Christchurch um, ohne zu wissen, was die klügsten Mensch Christchurchs mit ihrem Geld und ihrer Energie anstellen wollen. </seg>
+<seg id="77"> Man muss lernen, wie man diese dazu bringt, auf einen zuzukommen. </seg>
+<seg id="78"> Man muss ihnen Diskretion und Privatsphäre anbieten. Man muss großartig darin sein, ihnen zu helfen, und sie werden scharenweise kommen. </seg>
+<seg id="79"> In einer Gemeinde von 10 000 Menschen bekommen wir 200 Kunden. </seg>
+<seg id="80"> Können Sie sich eine Gemeinde von 400 000 Menschen vorstellen, die Intelligenz und die Leidenschaft? </seg>
+<seg id="81"> Für welche Präsentation haben Sie am meisten applaudiert heute morgen? </seg>
+<seg id="82"> Örtliche, leidenschaftliche Menschen. Diesen haben Sie applaudiert. </seg>
+<seg id="83"> Ich möchte damit sagen, dass Unternehmertum der richtige Weg ist. </seg>
+<seg id="84"> Wir sind am Ende der ersten industriellen Revolution – nichterneuerbare fossile Brennstoffe, Fertigung – und plötzlich gibt es Systeme, die nicht nachhaltig sind. </seg>
+<seg id="85"> Die Verbrennungskraftmaschine ist nicht nachhaltig. </seg>
+<seg id="86"> Die Freon-Art der Instandhaltung ist nicht nachhaltig. </seg>
+<seg id="87"> Wir müssen uns anschauen, wie wir sieben Milliarden Menschen auf nachhaltige Weise ernähren, heilen, bilden, transportieren und mit ihnen korrespondieren können. </seg>
+<seg id="88"> Die Technologien dafür existieren nicht. </seg>
+<seg id="89"> Wer wird diese Technologie für die grüne Revolution erfinden? Universitäten? Vergessen Sie's! </seg>
+<seg id="90"> Die Regierung? Vergessen Sie's! </seg>
+<seg id="91"> Es werden Unternehmer sein. Und sie machen es schon jetzt. </seg>
+<seg id="92"> Ich las eine herrliche Geschichte in einem futuristischen Magazin vor vielen Jahren. </seg>
+<seg id="93"> Es gab eine Gruppe von Experten, die eingeladen waren, um die Zukunft der Stadt New York im Jahr 1860 zu besprechen. </seg>
+<seg id="94"> In 1860 kamen sie zusammen und spekulierten, was in 100 Jahren mit der Stadt New York passieren würde. Die Schlussfolgerung war einheitlich: Die Stadt New York würde nicht mehr existieren in 100 Jahren. </seg>
+<seg id="95"> Warum? Sie sahen sich die Kurve an und sagten, wenn die Bevölkerung in diesem Tempo weiter wächst, brauchten sie sechs Millionen Pferde, um die Menschen zu befördern, und es wäre unmöglich, mit dem Mist von sechs Millionen Pferden fertig zu werden. </seg>
+<seg id="96"> Denn sie gingen schon im Mist unter. </seg>
+<seg id="97"> 1860 sehen sie die schmutzige Technologie, die das Leben aus New York saugt. </seg>
+<seg id="98"> Was passiert? 40 Jahre später, 1900, gab es in den USA 1001 Automobilhersteller – 1001. </seg>
+<seg id="99"> Die Idee, eine andere Technologie zu finden, hatte das Rennen gemacht. Es gab winzig kleine Fabriken im Hinterland. </seg>
+<seg id="100"> Dearborn, Michigan. Henry Ford. </seg>
+<seg id="101"> Es gibt ein Geheimnis, um mit Unternehmern zu arbeiten. </seg>
+<seg id="102"> Als erstes muss ihnen Diskretion angeboten werden. </seg>
+<seg id="103"> Ansonsten kommen sie nicht und sprechen mit Ihnen. </seg>
+<seg id="104"> Als nächstes müssen Sie ihnen absoluten, engagierten und leidenschaftlichen Service bieten. </seg>
+<seg id="105"> Dann müssen Sie ihnen die absolute Wahrheit über das Unternehmertum verraten. </seg>
+<seg id="106"> Von der kleinsten bis zur größten Firma müssen alle in der Lage sein, drei Dinge auszuführen: Das zu verkaufende Produkt muss grandios sein, die Vermarktung muss grandios sein und die Finanzbuchhaltung muss gewaltig sein. </seg>
+<seg id="107"> Raten Sie mal? </seg>
+<seg id="108"> Wir haben niemals eine einzige Person getroffen, die gleichzeitig etwas produzieren, verkaufen und sich um das Geld kümmern kann. </seg>
+<seg id="109"> So etwas existiert nicht. </seg>
+<seg id="110"> Diese Person wurde niemals geboren. </seg>
+<seg id="111"> Wir haben Forschung betrieben und uns die 100 ikonischsten Firmen der Welt angeschaut – Carnegie, Westinghouse, Edison, Ford die neuen Firmen, Google, Yahoo. </seg>
+<seg id="112"> Es gibt nur eine Sache, die alle erfolgreichen Firmen der Welt gemein haben, nur eine: Keine wurde von nur einer Person gegründet. </seg>
+<seg id="113"> Jetzt lehren wir 16-Jährigen in Northumberland Unternehmertum und wir beginnen den Unterricht damit, ihnen die ersten zwei Seiten von Richard Bransons Autobiographie zu geben. Die Aufgabe der 16-Jährigen ist es, in den ersten zwei Seiten von Richard Bransons Autobiographie zu unterstreichen, wie oft er das Wort "ich" benutzt und wie oft das Wort "wir". </seg>
+<seg id="114"> Niemals "ich" und 32 Mal "wir". </seg>
+<seg id="115"> Er war nicht allein, als er begann. </seg>
+<seg id="116"> Niemand gründete eine Firma allein. Niemand. </seg>
+<seg id="117"> So können wir eine Gemeinde erschaffen, in der Vermittler, die einen kleinunternehmerischen Hintergrund haben, in Cafés und Bars sitzen. Ihre engagierten Kumpel, die für sie tun werden, was jemand für diesen Gentleman getan hat, der über dieses Epos spricht. Jemand der zu Ihnen sagen wird: "Was brauchen Sie? </seg>
+<seg id="118"> Was können Sie? Können Sie es herstellen? </seg>
+<seg id="119"> Okay, können Sie es verkaufen? Können Sie auf das Geld achten?" </seg>
+<seg id="120"> "Oh, nein, das kann ich nicht." "Möchten Sie, dass ich jemanden für Sie finde?" </seg>
+<seg id="121"> Wir aktivieren Gemeinschaften. </seg>
+<seg id="122"> Wir haben Gruppen von Freiwilligen, die die Unternehmensvermittler darin unterstützen, ihnen beim Finden der Mittel und Leute zu helfen. Wir haben herausgefunden, dass das Wunder der Intelligenz der örtlichen Bevölkerung bewirkt, dass die Kultur und die Wirtschaft dieser Gemeinschaft verändert werden kann, nur durch das Einfangen der Leidenschaft, Energie und Vorstellungskraft ihrer Menschen. </seg>
+<seg id="123"> Danke schön. </seg>
+</doc>
+<doc docid="1592" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/melissa_marshall_talk_nerdy_to_me.html</url>
+<description>Melissa Marshall überbringt eine Botschaft an alle Wissenschaftler : Wir sind fasziniert von dem, was ihr macht. Erzählt uns also etwas darüber – in einer Art und Weise, die wir verstehen können. In nur 4 Minuten gibt sie beeindruckende Tipps, wie man einem breiten Publikum wissenschaftlich komplexe Gedanken präsentiert.</description>
+<keywords>communication,engineering,science</keywords>
+<talkid>1592</talkid>
+<title>Melissa Marshall: Klär' mich auf</title>
+<seg id="1"> Vor fünf Jahren habe ich erfahren, wie es wohl sein muss, Alice im Wunderland zu sein. </seg>
+<seg id="2"> Die Penn State University bat mich – eine Dozentin für Kommunikation – angehenden Ingenieuren Unterricht in Kommunikation zu erteilen. </seg>
+<seg id="3"> Ich hatte Angst – </seg>
+<seg id="4"> richtige Angst. Angst vor diesen Studenten mit ihren großen Gehirnen und ihren großen Büchern und ihren großen, mir nicht vertrauten Wörtern. </seg>
+<seg id="5"> Aber als sich die Gespräche entwickelten, erging es mir wie Alice, als sie sich hinunter zum Kanninchenloch kniete und eine Tür zu einer ganz neuen Welt sah. </seg>
+<seg id="6"> Genauso fühlte ich mich, als ich Gespräche mit den Studenten führte. Ich war erstaunt über die Gedanken, die sie hatten und wollte, dass auch andere dieses Wunderland entdeckten. </seg>
+<seg id="7"> Ich glaube, um diese Tür zu öffnen, bedarf es großartiger Kommunikation. </seg>
+<seg id="8"> Wir brauchen unbedingt großartige Kommunikation von unseren Wissenschaftlern und Ingenieuren, um die Welt zu verändern. </seg>
+<seg id="9"> Denn unsere Wissenschaftler und Ingenieure sind diejenigen, die unsere größten Probleme, wie zum Beispiel Energie, Umwelt und Gesundheit angehen, und wenn wir nichts darüber wissen und es nicht verstehen, dann geht es nicht voran. Ich glaube, dass es in unserer Verantwortung als Nicht-Wissenschaftler liegt, diese Gespräche zu suchen. </seg>
+<seg id="10"> Aber diese großartigen Gespräche kommen nicht zustande, wenn unsere Wissenschaftler und Ingenieure uns nicht in ihr Wunderland einladen. </seg>
+<seg id="11"> Also Wissenschaftler und Ingenieure, bitte, klärt uns auf. </seg>
+<seg id="12"> Ich will euch ein paar Ansätze zeigen, wie ihr es anstellen könnt, dass wir sehen können, dass die Wissenschaft und die Technik, mit der ihr euch beschäftigt, sexy und spannend ist. </seg>
+<seg id="13"> Die erste Frage, die ihr uns beantworten müsst, ist: Na und? </seg>
+<seg id="14"> Sagt uns, warum gerade euer wissenschaftliches Gebiet so relevant für uns ist. </seg>
+<seg id="15"> Sagt uns nicht nur, dass ihr Trabekeln untersucht, sondern sagt uns auch, dass ihr Trabekeln, die maschenartige Struktur in unseren Knochen, untersucht, weil sie wichtig ist, um Osteoporose verstehen und behandeln zu können. </seg>
+<seg id="16"> Und wenn ihr das beschreibt, was ihr macht, dann vermeidet Fachwörter. </seg>
+<seg id="17"> Fachwörter sind ein Hindernis zum Verständnis eurer Gedanken. </seg>
+<seg id="18"> Sicherlich könntet ihr „räumlich und zeitlich" verwenden, aber warum sagt ihr nicht einfach „Raum und Zeit", was viel verständlicher für uns ist? </seg>
+<seg id="19"> Uns eure Gedanken verständlich zu machen, ist nicht das Gleiche wie ihr Niveau herunterzuschrauben. </seg>
+<seg id="20"> Wie Einstein bereits sagte: „Mache die Dinge so einfach wie möglich – aber nicht einfacher." </seg>
+<seg id="21"> Ihr könnt uns bestimmt etwas über euer wissenschaftliches Gebiet erzählen, ohne dabei Kompromisse eingehen zu müssen. </seg>
+<seg id="22"> Ein paar Dinge sind dabei zu berücksichtigen: Beispiele, Geschichten und Analogien. Auf diese Weise könnt ihr uns in euren Bann ziehen. </seg>
+<seg id="23"> Und wenn ihr eure Arbeit präsentiert, dann lasst die Stichpunkte weg. </seg>
+<seg id="24"> Habt ihr euch jemals gefragt, warum es "Stichpunkt" heißt? </seg>
+<seg id="25"> Was geschieht, wenn jemand zusticht? Ein anderer wird erstochen, und mit diesen Punkten erstecht ihr euer Publikum. </seg>
+<seg id="26"> Eine Folie wie diese ist nicht nur langweilig, sondern setzt auch zu sehr auf den sprachverarbeitenden Teil unseres Gehirns und dadurch sind wir schnell überfordert. </seg>
+<seg id="27"> Diese Beispielfolie von Genevieve Brown ist viel wirkungsvoller. Sie zeigt, dass die spezielle Struktur der Trabekel so stabil ist, dass sie sogar die Inspiration für das einzigartige Design des Eiffelturms war. </seg>
+<seg id="28"> Der Trick hier ist, einen einzelnen, einfach lesbaren Satz zu benutzen, an dem sich das Publikum, wenn es einmal den Faden verliert, orientieren kann. Verwendet Bilder und Grafiken, die auch unsere anderen Sinne ansprechen und schafft dadurch ein tieferes Verständnis von dem, was ihr beschreibt. </seg>
+<seg id="29"> Das sind nur ein paar Ansätze, die uns helfen können, diese Tür zu öffnen und das Wunderland zu sehen, das die Wissenschaft und die Technik in sich bergen. </seg>
+<seg id="30"> Da die Ingenieure, die ich unterrichtet habe, mir beigebracht haben, mit dem „Nerd in mir" engen Kontakt herzustellen, möchte ich alles mit einer Gleichung zusammenfassen. </seg>
+<seg id="31"> Zieht von eurer Wissenschaft eure Stichpunkte und eure Fachwörter ab, teilt diese durch die Relevanz, also sagt dem Publikum, was wichtig ist, und multipliziert das Ganze mit der Leidenschaft, die ihr für eure unglaubliche Arbeit habt: Und daraus ergeben sich unvorstellbare Interaktionen, die voller neuer Erkenntnisse sind. </seg>
+<seg id="32"> Also Wissenschaftler und Ingenieure, wenn ihr diese Gleichung gelöst habt, klärt mich unbedingt auf. </seg>
+<seg id="33"> Vielen Dank. </seg>
+</doc>
+<doc docid="1518" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/malte_spitz_your_phone_company_is_watching.html</url>
+<description>Welche Art von Daten erhebt Ihre Telefongesellschaft? Malte Spitz machte sich nicht allzu viele Gedanken, als er seinen deutschen Telefonanbieter darum bat, die Informationen, die über ihn gespeichert sind, zu bekommen. Mehrere unbeantwortete Anfragen und ein Gerichtsverfahren später erhielt Spitz 35.830 Zeilen Code – eine detaillierte, nahezu minutengenaue Aufschlüsselung eines halben Jahres seines Lebens.</description>
+<keywords>data,technology,telecom</keywords>
+<talkid>1518</talkid>
+<title>Malte Spitz: Ihre Telefongesellschaft beobachtet Sie</title>
+<seg id="1"> Hi. Das ist mein Handy. </seg>
+<seg id="2"> Ein Handy kann ein Leben verändern und einem persönliche Freiheit geben. </seg>
+<seg id="3"> Mit einem Handy kann man ein Verbrechen an der Menschheit in Syrien filmen. </seg>
+<seg id="4"> Mit einem Handy kann man eine Nachricht tweeten und eine Protestaktion in Ägypten starten. </seg>
+<seg id="5"> Und mit einem Handy kann man ein Lied aufnehmen, es hochladen bei SoundCloud und berühmt werden. </seg>
+<seg id="6"> All das ist mit einem Handy möglich. </seg>
+<seg id="7"> Ich bin Jahrgang 1984 und lebe in Berlin. </seg>
+<seg id="8"> Gehen wir zurück in jene Zeit in diese Stadt. </seg>
+<seg id="9"> Dort können Sie sehen, wie hunderttausende von Menschen für Veränderungen auf die Straße gingen und demonstrierten. </seg>
+<seg id="10"> Wir sind im Herbst 1989 und stellen uns vor, dass all diese Leute, die aufstanden und Veränderungen forderten, ein Handy in der Tasche hatten. </seg>
+<seg id="11"> Wer im Saal hat ein Handy dabei? </seg>
+<seg id="12"> Halten Sie es hoch. </seg>
+<seg id="13"> Halten Sie Ihre Handys hoch, halten Sie sie hoch! </seg>
+<seg id="14"> Halten Sie es hoch. Ein Android, ein Blackberry, wow. </seg>
+<seg id="15"> Das sind viele. Fast jeder hat heutzutage ein Handy. </seg>
+<seg id="16"> Doch heute will über mich und mein Handy reden und darüber, wie es mein Leben verändert hat. </seg>
+<seg id="17"> Und ich werde über folgendes sprechen. </seg>
+<seg id="18"> Dies sind 35.830 Zeilen voll Informationen. </seg>
+<seg id="19"> Rohdaten. </seg>
+<seg id="20"> Und warum sind diese Informationen dort? </seg>
+<seg id="21"> Weil im Sommer 2006 die E.U.-Kommission eine Richtlinie vorgelegt hat. </seg>
+<seg id="22"> Diese Richtlinie heißt Richtlinie zur Vorratsdatenspeicherung. </seg>
+<seg id="23"> Diese Richtlinie besagt, dass jede Telefongesellschaft in Europa, jeder Internetdienstleister im gesamten Europa, eine Bandbreite an Benutzerinformationen speichern muss. </seg>
+<seg id="24"> Wer ruft wen an? Wer schickt wem eine E-Mail? </seg>
+<seg id="25"> Wer schickt wem eine SMS? </seg>
+<seg id="26"> Und wenn man ein Handy benutzt, wo man ist. </seg>
+<seg id="27"> All diese Informationen werden für mindestens sechs Monate bis zu zwei Jahre von Ihrer Telefongesellschaft oder Ihrem Internetanbieter gespeichert. </seg>
+<seg id="28"> Und überall in Europa sind die Menschen aufgestanden und haben gesagt, "Das wollen wir nicht." </seg>
+<seg id="29"> Sie sagten, wir wollen diese Vorratsdatenspeicherung nicht. </seg>
+<seg id="30"> Wir wollen Selbstbestimmung im digitalen Zeitalter und wir wollen nicht, dass die Telefongesellschaften und Internetdienstleister all diese Informationen über uns speichern müssen. </seg>
+<seg id="31"> Es gab Anwälte, Journalisten, Priester, die alle sagten: "Das wollen wir nicht." </seg>
+<seg id="32"> Und hier können Sie sehen, wie zehntausende Menschen auf die Straßen von Berlin strömten und sagten, "Freiheit statt Angst." </seg>
+<seg id="33"> Und manche sagten sogar, dies könnte zur Stasi 2.0 werden. </seg>
+<seg id="34"> Die Stasi war die Geheimpolizei in Ostdeutschland. </seg>
+<seg id="35"> Und ich frage mich ebenfalls, ob das wirklich funktioniert. </seg>
+<seg id="36"> Können die wirklich all diese Informationen über uns speichern? </seg>
+<seg id="37"> Jedes Mal wenn ich mein Handy benutze? </seg>
+<seg id="38"> Also fragte ich meine Telefongesellschaft, die Deutsche Telekom, die damals die größte Telefongesellschaft in Deutschland war, und ich fragte sie, bitte, schickt mir alle Informationen, die ihr über mich gespeichert habt. </seg>
+<seg id="39"> Und ich fragte sie einmal und fragte sie erneut und bekam keine richtige Antwort. Nur leeres Bla Bla. </seg>
+<seg id="40"> Aber dann sagte ich mir, ich will diese Informationen haben, weil es mein Leben ist, das ihr da protokolliert. </seg>
+<seg id="41"> Also entschied ich mich dazu, ein Gerichtsverfahren gegen sie einzuleiten, weil ich diese Informationen haben wollte. </seg>
+<seg id="42"> Doch die Deutsche Telekom sagte, nein, wir werden dir diese Informationen nicht geben. </seg>
+<seg id="43"> Am Ende kam es zu einem Vergleich mit ihnen. </seg>
+<seg id="44"> Ich ziehe die Anklage zurück, wofür sie mir alle verlangten Informationen schicken. </seg>
+<seg id="45"> Weil in der Zwischenzeit das Bundesverfassungsgericht entschied, dass die Einführung der E.U.-Richtlinie ins deutsche Recht verfassungswidrig war. </seg>
+<seg id="46"> Also erhielt ich diesen hässlichen braunen Umschlag mit einer CD. </seg>
+<seg id="47"> Und auf der CD war dies: </seg>
+<seg id="48"> 35.830 Zeilen an Informationen. </seg>
+<seg id="49"> Zuerst sah ich es und sagte zu mir, gut, es ist halt eine riesige Datei. Meinetwegen. </seg>
+<seg id="50"> Aber dann erkannte ich nach einer Weile: Das ist mein Leben. </seg>
+<seg id="51"> Das sind sechs Monate meines Lebens in dieser Datei. </seg>
+<seg id="52"> Also war ich ein bisschen skeptisch, was soll ich damit anfangen? </seg>
+<seg id="53"> Weil man darin sieht, wo ich bin, wo ich nachts schlafe, was ich mache. </seg>
+<seg id="54"> Aber dann sagte ich mir, ich will mit diesen Informationen an die Öffentlichkeit gehen. </seg>
+<seg id="55"> Ich will sie publik machen. </seg>
+<seg id="56"> Denn ich will den Menschen zeigen, was Vorratsdatenspeicherung bedeutet. </seg>
+<seg id="57"> Zusammen mit Zeit Online und Open Data City habe ich also dies hier gemacht. </seg>
+<seg id="58"> Dies ist eine Visualisierung von sechs Monaten meines Lebens. </seg>
+<seg id="59"> Man kann reinzoomen und rauszoomen, man kann vor- und zurückspulen. </seg>
+<seg id="60"> Man kann jeden Schritt, den ich mache, nachverfolgen. </seg>
+<seg id="61"> Und man kann sogar sehen, wie ich von Frankfurt mit dem Zug nach Köln fahre, und wie viele Anrufe ich unterwegs mache. </seg>
+<seg id="62"> All das ist möglich anhand dieser Informationen. </seg>
+<seg id="63"> Das macht ein bisschen Angst. </seg>
+<seg id="64"> Aber es geht nicht nur um mich. </seg>
+<seg id="65"> Es geht um uns alle. </seg>
+<seg id="66"> Zuerst ist es nur so, ich rufe meine Frau an und sie ruft mich an, und wir reden ein paar Mal miteinander. </seg>
+<seg id="67"> Und dann rufen mich ein paar Freunde an und sie rufen einander an. </seg>
+<seg id="68"> Und nach einer Weile rufen Sie Sie an und Sie rufen Sie an und wir haben dieses riesige Kommunikationsnetzwerk. </seg>
+<seg id="69"> Aber man kann sehen, wie die Menschen miteinander kommunizieren, zu welchen Zeiten sie einander anrufen, wann sie zu Bett gehen. </seg>
+<seg id="70"> Das kann man alles sehen. </seg>
+<seg id="71"> Man erkennt die zentralen Figuren, etwa wer die Anführer der Gruppe sind. </seg>
+<seg id="72"> Wenn man Zugang zu diesen Informationen hat, kann man sehen, was die Gesellschaft macht. </seg>
+<seg id="73"> Wenn man Zugang zu diesen Informationen hat, kann man die Gesellschaft kontrollieren. </seg>
+<seg id="74"> Das ist ein Bauplan für Länder wie China und den Iran. </seg>
+<seg id="75"> Dies ist der perfekte Entwurf, wie man eine Gesellschaft überwachen kann, weil man weiß, wer mit wem redet, wer wem eine E-Mail schickt, all das ist möglich, wenn man Zugang zu diesen Informationen hat. </seg>
+<seg id="76"> Und diese Informationen werden für mindestens 6 Monate gespeichert, in Europa bis zu 2 Jahre. </seg>
+<seg id="77"> Wie ich zu Beginn sagte, stellen wir uns vor, dass all diese Menschen in den Straßen Berlins im Herbst 1989 Handys in ihrer Tasche gehabt hätten. </seg>
+<seg id="78"> Und die Stasi hätte gewusst, wer bei der Demonstration dabei war, und wenn die Stasi gewusst hätte, wer die Anführer gewesen sind, dann wäre dies vielleicht nie passiert. </seg>
+<seg id="79"> Der Fall der Berliner Mauer hätte vielleicht nicht stattgefunden. </seg>
+<seg id="80"> Und auch danach nicht der Fall des eisernen Vorhangs. </seg>
+<seg id="81"> Weil heute staatliche Agenturen und Firmen so viele Informationen speichern wollen, wie sie über uns kriegen können, online und offline. </seg>
+<seg id="82"> Sie wollen die Möglichkeit haben, unser Leben zu verfolgen, und sie wollen das alles beliebig lange speichern. </seg>
+<seg id="83"> Aber Selbstbestimmung und ein Leben im digitalen Zeitalter sind kein Widerspruch. </seg>
+<seg id="84"> Jedoch muss man für die Selbstbestimmung heute kämpfen. </seg>
+<seg id="85"> Sie müssen dafür jeden Tag kämpfen. </seg>
+<seg id="86"> Wenn Sie also nach Hause gehen, sagen Sie Ihren Freunden, dass Privatsphäre ein Wert des 21. Jahrhunderts ist und dass dies nicht altmodisch ist. </seg>
+<seg id="87"> Wenn Sie nach Hause gehen, sagen Sie Ihrem Abgeordneten, nur weil Firmen und staatliche Stellen die Möglichkeit haben, bestimmte Informationen zu speichern, müssen sie es noch lange nicht tun. </seg>
+<seg id="88"> Und wenn Sie mir nicht glauben, fragen Sie Ihre Telefongesellschaft nach den Informationen, die sie über Sie gespeichert haben . </seg>
+<seg id="89"> Also, in der Zukunft, jedes Mal, wenn Sie Ihr Handy benutzen, erinnern Sie sich daran, dass Sie um die Selbstbestimmung im digitalen Zeitalter kämpfen müssen. </seg>
+<seg id="90"> Danke schön. </seg>
+</doc>
+<doc docid="1685" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/ron_finley_a_guerilla_gardener_in_south_central_la.html</url>
+<description>Ron Finley pflanzt Gemüsegärten in South Central LA — auf verlassenen Grundstücken, Verkehrsinseln und an Straßenrändern. Warum? Aus Spaß, aus Trotz, aus Schönheitssinn und um eine Alternative zu Fast Food zu bieten, in einer Gemeinschaft, in der "die Drive-thrus mehr Menschen töten als die Drive-bys".</description>
+<keywords>agriculture,culture,food,health,social change</keywords>
+<talkid>1685</talkid>
+<title>Ron Finley: Ein Guerilla-Gärtner in South Central LA</title>
+<seg id="1"> Ich lebe in South Central. </seg>
+<seg id="2"> Das ist South Central: Spirituosenläden, Schnellrestaurants, Brachflächen. </seg>
+<seg id="3"> Die Stadtplaner treffen sich also und überlegten, den Namen South Central zu ändern, damit er für etwas anderes steht, sie änderten ihn in South Los Angeles, als ob das etwas daran ändert, was in der Stadt falsch läuft. </seg>
+<seg id="4"> Das ist South Los Angeles. </seg>
+<seg id="5"> Spirituosenläden, Schnellrestaurants, Brachflächen. </seg>
+<seg id="6"> So wie 26,5 Millionen andere Amerikaner lebe ich in der Essens-Wüste South Central Los Angeles, das Zuhause des Drive-thrus und des Drive-bys. </seg>
+<seg id="7"> Das Komische ist, dass die Drive-thrus mehr Menschen töten als die Drive-bys. </seg>
+<seg id="8"> Menschen sterben in South Central Los Angeles an heilbaren Erkrankungen. </seg>
+<seg id="9"> Die Fettleibigkeitsrate in meinem Viertel ist z. B. fünf Mal höher als etwa in Beverly Hills, das circa 15 km entfernt ist. </seg>
+<seg id="10"> Ich konnte das nicht mehr mitansehen. </seg>
+<seg id="11"> Und ich fragte mich, wie Sie sich fühlen würden, wenn Sie keinen Zugang zu gesundem Essen hätten, wenn Sie jedes Mal, wenn Sie aus dem Haus gehen, die negativen Auswirkungen sehen, die das bestehende Ernährungssystem auf Ihr Viertel hat. </seg>
+<seg id="12"> Ich erlebe, dass Rollstühle gekauft und verkauft werden wie Gebrauchtwagen. </seg>
+<seg id="13"> Ich sehe Dialysezentren emporschießen wie Starbucks. </seg>
+<seg id="14"> Und ich hab begriffen, dass das aufhören muss. </seg>
+<seg id="15"> Ich kapierte, dass das Problem die Lösung ist. </seg>
+<seg id="16"> Essen ist das Problem und Essen ist die Lösung. </seg>
+<seg id="17"> Außerdem hatte ich keine Lust mehr auf 45-Minuten-Rundfahrten, um einen Apfel zu bekommen, der nicht mit Pestiziden imprägniert ist. </seg>
+<seg id="18"> Also pflanzte ich einen Essens-Wald vor meinem Haus. </seg>
+<seg id="19"> Es ist ein Stück Land, das wir Parkanlage nennen. </seg>
+<seg id="20"> Es ist 45 auf 3 Meter. </seg>
+<seg id="21"> Die Sache ist die, es gehört der Stadt. </seg>
+<seg id="22"> Aber man muss es pflegen. </seg>
+<seg id="23"> Ich denke also: "Cool. Ich kann machen, was ich will, weil es meine Verantwortung ist und ich es in Stand halten muss." </seg>
+<seg id="24"> Und ich entschied, es so in Stand zu halten. </seg>
+<seg id="25"> Also kamen ich und meine Gruppe, die L.A. Green Grounds, zusammen und wir fingen an, meinen Essens-Wald, und Obstbäume, zu pflanzen, also das ganze Programm, Gemüse. </seg>
+<seg id="26"> Wir sind eine Art Vorleistungs-Gruppe, zusammengesetzt aus Gärtnern aus allen sozialen Schichten und aus der ganzen Stadt, es ist völlig freiwillig und alles, was wir machen, ist kostenlos. </seg>
+<seg id="27"> Und der Garten ist wunderschön. </seg>
+<seg id="28"> Aber dann beschwerte sich jemand. </seg>
+<seg id="29"> Die Stadt kam auf mich zu und erteilte mir praktisch eine Vorladung und sagte, dass ich meinen Garten beseitigen muss, die Vorladung wurde zu einer richterlichen Anordnung. </seg>
+<seg id="30"> Und ich dachte: "Kommt schon, echt? </seg>
+<seg id="31"> Eine richterliche Anordnungen wegen Anbau von Nahrungsmitteln auf einem Stück Land, das euch total egal ist?" </seg>
+<seg id="32"> Und ich dachte: "Cool. Her damit." </seg>
+<seg id="33"> Denn dieses Mal würde es nicht aufgehen. </seg>
+<seg id="34"> Die L.A. Times bekam Wind davon. Steve Lopez machte eine Story darüber und sprach mit dem Stadtrat und mit einem Mitglied von Green Ground. Sie verfassten eine Petition auf Change.org und mit 900 Unterschriften waren wir erfolgreich. </seg>
+<seg id="35"> Wir hielten den Sieg in den Händen. </seg>
+<seg id="36"> Mein Stadtrat rief sogar an und sagte, dass sie es unterstützen und lieben, was wir tun. </seg>
+<seg id="37"> Also echt, warum sollten sie das nicht tun? </seg>
+<seg id="38"> L.A. hat in den Vereinigten Staaten die meisten Brachflächen im Besitz der Stadt. </seg>
+<seg id="39"> Sie besitzen 67 km2 an Brachflächen. </seg>
+<seg id="40"> Das sind 20 Central Parks. </seg>
+<seg id="41"> Das ist genug Fläche, um 725 Millionen Tomatenpflanzen zu pflanzen. </seg>
+<seg id="42"> Warum zum Teufel sollten sie das nicht ok finden? </seg>
+<seg id="43"> Durch den Anbau einer Pflanze kriegt man 1.000 – 10.000 Samen. </seg>
+<seg id="44"> Mit grünen Bohnen im Wert von einem Dollar erhält man Obst und Gemüse im Wert von 75 Dollar. </seg>
+<seg id="45"> Es ist meine Heilsbotschaft, ich sage Leuten, dass sie ihr eigenes Essen anbauen sollen. </seg>
+<seg id="46"> Sein eigenes Essen anzubauen ist wie sein eigenes Geld zu drucken. </seg>
+<seg id="47"> Sehen Sie, ich habe ein Vermächtnis in South Central. </seg>
+<seg id="48"> Ich wuchs dort auf. Ich habe meine Söhne dort aufgezogen. </seg>
+<seg id="49"> Und ich weigere mich, Teil dieser vorgefertigten Realität zu sein, die von anderen Menschen hergestellt wurde und ich fabriziere meine eigene Realität. </seg>
+<seg id="50"> Sehen Sie, ich bin ein Künstler. </seg>
+<seg id="51"> Gartenarbeit ist mein Graffiti. Ich pflanze meine Kunst. </seg>
+<seg id="52"> Genau wie ein Graffiti-Künstler, der Wände verschönert, verschönere ich Rasen und Parkanlagen. </seg>
+<seg id="53"> Ich benutze den Garten, die Erde, wie ein Stück Stoff, und die Pflanzen und die Bäume sind meine Verzierungen für diesen Stoff. </seg>
+<seg id="54"> Sie wären überrascht, was der Erdboden alles kann, wenn Sie ihn als Leinwand benutzen. </seg>
+<seg id="55"> Sie können sich nicht vorstellen, wie erstaunlich eine Sonnenblume ist, und wie sie Menschen berührt. </seg>
+<seg id="56"> Was passierte also? </seg>
+<seg id="57"> Ich habe erlebt, wie mein Garten zu einem Instrument für die Erziehung und die Verwandlung meines Viertels wurde. </seg>
+<seg id="58"> Um die Gemeinschaft zu ändern, muss man die Zusammensetzung des Bodens verändern. </seg>
+<seg id="59"> Wir sind der Boden. </seg>
+<seg id="60"> Sie würden sich wundern, wie Kindern davon beeinflusst werden. </seg>
+<seg id="61"> Gärtnern ist der therapeutischste und kühnste Akt, den man machen kann, besonders mitten in der Stadt. </seg>
+<seg id="62"> Außerdem kriegt man Erdbeeren. </seg>
+<seg id="63"> Ich erinnere mich an dieses Mal, als diese Mutter und ihre Tochter kamen, es war circa 10:30 nachts. Sie waren in meinem Garten, und ich kam raus und sie schauten so beschämt. </seg>
+<seg id="64"> Ich hab' mich echt schlecht gefühlt, weil sie dort waren und ich sagte ihnen: "Wisst ihr, ihr müsst das nicht so machen. </seg>
+<seg id="65"> Der Garten ist nicht ohne Grund auf der Straße." </seg>
+<seg id="66"> Ich habe mich geschämt, wenn ich Menschen sah, die mir so nah sind und hungrig waren, und das hat mich nur darin bestärkt, das zu tun. Menschen fragten mich: "Fin, hast du keine Angst, dass Leute dein Essen stehlen werden." </seg>
+<seg id="67"> Und ich sagte: "Zum Teufel, nein, ich hab' keine Angst, dass sie was klauen. </seg>
+<seg id="68"> Dazu ist es doch auf der Straße. </seg>
+<seg id="69"> Das ist doch die Idee. </seg>
+<seg id="70"> Ich will, dass sie es nehmen, aber gleichzeitig will ich, dass sie sich ihre Gesundheit zurücknehmen." </seg>
+<seg id="71"> Zu einer anderen Zeit legte ich einen Garten in diesem Obdachlosenheim in Downtown L.A. an. </seg>
+<seg id="72"> Das sind die Typen, die mir geholfen haben, den Laster zu entladen. </seg>
+<seg id="73"> Es war cool und sie teilten ihre Geschichten darüber, wie es sie beeinflusst hat und wie sie mit ihrer Mutter und ihrer Großmutter gepflanzt haben, und es war toll zu sehen, wie es sie verändert hat, wenn auch vielleicht nur für einen Moment. </seg>
+<seg id="74"> Green Grounds hat so schon etwa 20 Gärten gepflanzt. </seg>
+<seg id="75"> Zu unseren Umgrab-Aktionen kamen so 50 Leute und machten mit und das sind alles Freiwillige. </seg>
+<seg id="76"> Wenn Kinder Kohl züchten, essen Kinder Kohl. </seg>
+<seg id="77"> Wenn sie Tomaten züchten, essen sie Tomaten. </seg>
+<seg id="78"> Aber wenn sie nichts davon angeboten bekommen, wenn sie nicht gezeigt bekommen, wie Essen Verstand und Körper beeinflusst, essen sie blind, was auch immer man ihnen vorsetzt. </seg>
+<seg id="79"> Ich sehe junge Menschen, die arbeiten wollen, aber sie stecken in diesem Ding – Ich sehe farbige Kinder, die genau auf dem Pfad sind, der für sie vorgesehen ist, und der sie nirgendwohin führt. </seg>
+<seg id="80"> Das Gärtnern sehe ich als eine Gelegenheit, wo wir diese Kinder trainieren können, sich um ihre Gemeinschaften zu kümmern, um ein nachhaltiges Leben zu führen. </seg>
+<seg id="81"> Und wenn wir das tun, wer weiß? </seg>
+<seg id="82"> Wir könnten den nächsten George Washington Carver hervorbringen. </seg>
+<seg id="83"> Aber wenn wir die Zusammensetzung des Erdbodens nicht ändern, werden wir das nie tun. </seg>
+<seg id="84"> Also das ist einer meiner Pläne. Das will ich machen. </seg>
+<seg id="85"> Ich will einen ganzen Wohnblock an Gärten pflanzen, wo Menschen das Essen im selben Block teilen können. </seg>
+<seg id="86"> Ich will Schiffscontainer nehmen und sie in gesunde Cafés verwandeln. </seg>
+<seg id="87"> Also, verstehen Sie mich nicht falsch. </seg>
+<seg id="88"> Ich rede nicht von kostenlosem Scheiß, denn kostenlos ist nicht nachhaltig. </seg>
+<seg id="89"> Das Komische an Nachhaltigkeit ist, dass man sie durchhalten muss. </seg>
+<seg id="90"> Ich spreche davon, Menschen Arbeit zu geben, und Kinder von den Straßen zu holen, und sie die Freude, den Stolz und die Ehre erfahren zu lassen, wenn man sein eigenes Essen anbaut, und wenn man Bauernmärkte eröffnet. </seg>
+<seg id="91"> Also, was ich hier tun will, ist das hier sexy zu machen. </seg>
+<seg id="92"> Ich möchte, dass wir alle ökologische Rebellen, Gangster, Gangster-Gärtner werden. </seg>
+<seg id="93"> Wir müssen das Bild von Gangstern umdrehen. </seg>
+<seg id="94"> Wenn man kein Gärtner ist, ist man kein Gangster. </seg>
+<seg id="95"> Gangster wird man mit 'ner Schaufel, klar? </seg>
+<seg id="96"> Und lasst das die Waffe eurer Wahl sein. </seg>
+<seg id="97"> Wenn Sie sich mit mir treffen wollen, rufen Sie mich nicht an, wenn Sie in bequemen Stühlen rumsitzen und ein Meeting machen wollen, wo man darüber spricht, irgendwelchen Scheiß zu machen. </seg>
+<seg id="98"> Wenn Sie mich treffen wollen, kommen Sie mit Ihrer Schaufel, in meinen Garten, damit wir irgendeinen Scheiß pflanzen können. </seg>
+<seg id="99"> Frieden. Danke. </seg>
+<seg id="100"> Danke. </seg>
+</doc>
+<doc docid="1548" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/mark_forsyth_what_s_a_snollygoster_a_short_lesson_in_political_speak.html</url>
+<description>Die meisten Politiker wählen ihre Worte mit Bedacht, um die Realität zu formen, die sie gerne erschaffen möchten. Aber funktioniert das auch? Der Etymologe Mark Forsyth berichtet von einigen unterhaltsamen Geschichten zur Wortherkunft aus der britischen und amerikanischen Geschichte und kommt zu einem überraschenden Ergebnis. </description>
+<keywords>culture,language,politics</keywords>
+<talkid>1548</talkid>
+<title>Mark Forsyth: Was ist ein Snollygoster? Eine Einführung in die Sprache der Politik</title>
+<seg id="1"> Eines meiner Lieblingswörter im gesamten Oxford Englisch Wörterbuch ist "snollygoster". </seg>
+<seg id="2"> Weil es so schön klingt. </seg>
+<seg id="3"> Und "snollygoster" bedeutet "ein unehrlicher Politiker". </seg>
+<seg id="4"> Obwohl im 19. Jahrhundert ein Zeitungsherausgeber eine bessere Definition ablieferte: "Ein Snollygoster ist jemand, der ein Amt anstrebt, unabhängig von Partei, Programm oder Leitsatz, und seinen Erfolg durch die reine Kraft der monumentalen spracheralen Hypothesligkeit erreicht". </seg>
+<seg id="5"> Ich habe keine Ahnung, was "spracheral" ist. </seg>
+<seg id="6"> Irgendwas mit Worten, denke ich. </seg>
+<seg id="7"> Aber es ist sehr wichtig, dass Worte im Zentrum der Politik stehen, und alle Politiker wissen, dass sie versuchen müssen, die Sprache zu kontrollieren. </seg>
+<seg id="8"> Vor 1771, zum Beispiel, durften laut dem britischen Parlament, Zeitungen nicht den genauen Wortlaut der Debatten vermelden. </seg>
+<seg id="9"> Und das ging tatsächlich zurück auf den Mut eines Mannes mit dem außergewöhnlichen Namen Brass Crosby, der sich mit dem Parlament anlegte. </seg>
+<seg id="10"> Sie warfen ihn in den Tower of London und sperrten ihn ein, aber er war mutig genug, er war mutig genug, aufzubegehren, und schlussendlich hatte er so viel Unterstützung in London, dass er gewann. </seg>
+<seg id="11"> Und nur ein paar Jahre später finden wir den ersten Nachweis für den Satz "so stark wie Brass". Viele glauben, </seg>
+<seg id="12"> Brass beziehe sich auf das englische Wort für Blech. </seg>
+<seg id="13"> Aber das stimmt nicht. Es geht zurück auf einen Befürworter der Pressefreiheit. </seg>
+<seg id="14"> Um Ihnen aber zu zeigen, wie Worte und Politik verflochten sind, möchte ich Sie mit in die USA nehmen, zu dem Zeitpunkt, als sie gerade die Unabhängigkeit erreicht hat. </seg>
+<seg id="15"> Man sah sich der Frage gegenüber, wie man George Washington, das Staatsoberhaupt, nennen sollte. </seg>
+<seg id="16"> Man wusste es nicht. </seg>
+<seg id="17"> Wie nennt man den Anführer einer republikanischen Nation? </seg>
+<seg id="18"> Darüber wurde im Kongress unendlich lange debattiert. </seg>
+<seg id="19"> Und da gab es alle möglichen umsetzbaren Vorschläge. </seg>
+<seg id="20"> Ich meine, einige Leute wollten ihn Gouverneur Washington nennen, und andere, Seine Hoheit George Washington, und wieder andere, Beschützer der Freiheit der Menschen der Vereinigten Staaten von Amerika Washington </seg>
+<seg id="21"> Nicht so einprägsam. </seg>
+<seg id="22"> Einige Leute wollten ihn einfach König nennen. </seg>
+<seg id="23"> Sie dachten, das sei bewährt. </seg>
+<seg id="24"> Sie waren nicht monarchistisch, sie wollten den König für eine bestimmte Zeitspanne wählen. </seg>
+<seg id="25"> Es hätte funktionieren können. </seg>
+<seg id="26"> Aber jeder war unbeschreiblich gelangweilt, weil diese Debatte 3 Wochen anhielt. </seg>
+<seg id="27"> Ich habe das Tagebuch eines Senators gelesen, der ständig schreibt: "Immer noch das gleiche Thema". </seg>
+<seg id="28"> Der Grund für die Verzögerung und die Langeweile war, dass das Repräsentantenhaus gegen den Senat war. </seg>
+<seg id="29"> Das Repräsentantenhaus wollte nicht, dass Washington machtgierig wird. Sie wollten ihn nicht </seg>
+<seg id="30"> König nennen, und ihn womöglich noch auf Ideen zu seiner Nachfolge bringen. </seg>
+<seg id="31"> Sie wollten ihm den demütigsten, ärmlichsten, jämmerlichsten Titel geben, der ihnen einfiel. </seg>
+<seg id="32"> Dieser Titel war "Präsident". </seg>
+<seg id="33"> Präsident. Sie haben den Titel nicht erfunden. Er existierte vorher. Aber er bedeutete lediglich, dass jemand einer Versammlung vorsitzt. </seg>
+<seg id="34"> So etwas wie der Vorsitz einer Jury. </seg>
+<seg id="35"> Er hatte nicht mehr Größe, als die Bezeichnung "Aufseher" oder "Aufpasser". </seg>
+<seg id="36"> Manchmal gab es Präsidenten kleiner kolonialer Gemeinderäte und Regierungsgruppen, aber es war wirklich ein unbedeutender Titel </seg>
+<seg id="37"> Deshalb lehnte der Senat ihn ab. </seg>
+<seg id="38"> Sie sagten: "Das ist lächerlich, Sie können ihn nicht Präsident nennen. </seg>
+<seg id="39"> Dieser Kerl muss Abkommen unterschreiben und ausländische Würdenträger treffen. </seg>
+<seg id="40"> Wer wird ihn ernst nehmen, wenn er einen dummen kleinen Titel wie Präsident der Vereinigten Staaten von Amerika hat?" </seg>
+<seg id="41"> Und auch nach 3 Wochen Debatte gab der Senat nicht nach. </seg>
+<seg id="42"> Stattdessen einigte man sich, den Titel "Präsident" vorerst zu verwenden, aber sie wollten absolut klarstellen, dass sie damit nicht einverstanden waren wegen ihres ehrbaren Respekts für die Meinungen und Methoden zivilisierter Nationen, egal ob in Republik oder Monarchie, wo es Sitte ist, dass sich das Büro des Staatsoberhauptes respektable Titel aneignet – nicht verdammter Präsident – und dass im Umgang mit anderen Nationen, die Erhabenheit der Menschen der Vereinigten Staaten nicht durch den Anschein der Eigenartigkeit aufs Spiel gesetzt wird, das heißt, wir wollen nicht wie verdammte Idioten aussehen. </seg>
+<seg id="43"> Man kann davon drei interessante Dinge lernen. </seg>
+<seg id="44"> Erstens – und das finde ich am besten – bis jetzt habe ich nicht herausfinden können, ob der Senat jemals formal den Titel Präsident bestätigt hat. </seg>
+<seg id="45"> Barack Obama, Präsident Obama, hat den Titel nur geliehen. er wartet nur darauf, dass der Senat aktiv wird. </seg>
+<seg id="46"> Zweitens können Sie lernen, dass, wenn eine Regierung sagt, dass etwas temporär ist – – dann wartet man auch 223 Jahre später noch. </seg>
+<seg id="47"> Drittens, und das ist wirklich wichtig, das ist der wichtigste Punkt, ist, dass der Titel "Präsident der Vereinigten Staaten von Amerika" heutzutage nicht mehr so demütig klingt, oder? </seg>
+<seg id="48"> Das hat mit den etwas mehr als 5000 Nuklearsprengköpfen zu tun, die er hat und der größten Volkswirtschaft der Welt und einer Flotte Drohnen und dieses ganze Zeug. </seg>
+<seg id="49"> Wirklichkeit und Geschichte haben dem Titel Größe gegeben. </seg>
+<seg id="50"> Und so hat der Senat am Ende gewonnen. </seg>
+<seg id="51"> Sie haben einen respektablen Titel bekommen. </seg>
+<seg id="52"> Und die andere Sorge des Senats, der Anschein von Eigenartigkeit – nun, damals war es so. </seg>
+<seg id="53"> Aber wissen Sie, wie viele Nationen einen Präsident haben? </seg>
+<seg id="54"> 147. </seg>
+<seg id="55"> Weil sie alle so klingen wollen, wie der Kerl mit den 5000 nuklearen Sprengköpfen usw. </seg>
+<seg id="56"> Am Ende gewann also der Senat und das Repräsentantenhaus verlor, weil niemand sich demütig fühlt, wenn einem gesagt wird, dass man jetzt der Präsident der Vereinigten Staaten von Amerika ist. </seg>
+<seg id="57"> Und das ist das Wichtigste, was Sie mitnehmen können, und mit dem ich mich verabschiede. </seg>
+<seg id="58"> Politiker versuchen Worte zu benutzen, um die Realität zu formen und die Realität zu kontrollieren, aber tatsächlich verändert die Realität Worte viel mehr, als Worte die Realität jemals verändern könnten. </seg>
+<seg id="59"> Vielen Dank. </seg>
+</doc>
+<doc docid="1539" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/a_sense_of_humor_about_afghanistan_an_artist_shows_how.html</url>
+<description>Der afghanisch-amerikanische Künstler Aman Mojadidi nennt sich selbst „geborener Afghane, Südstaaten-Prolet von Gottes Gnaden." Indem er seine beiden Identitäten ausspielt, erkundet der TED Fellow mit seiner gewagten, lustigen und nachdenklichen Darstellung Dschihad, Gangstertum, Konsumenten und Korruption im modernen Afghanistan.</description>
+<keywords>art,arts,culture,politics</keywords>
+<talkid>1539</talkid>
+<title>Afghanistan mit Humor nehmen? Künstler Aman Mojadidi zeigt wie</title>
+<seg id="1"> Ich kam also in einem Laster mit ungefähr 50 Rebellen beim Kampf um Dschalalabad an - ein 19-jähriger, vegetarischer Surfer aus Jacksonville, Florida. </seg>
+<seg id="2"> Ich tauschte meine schwarzen Converse Halbschuhe gegen ein Paar braune Ledersandalen und feuerte eine Rakete in Richtung der Regierungspanzer, die ich nicht einmal sehen konnte. </seg>
+<seg id="3"> Das war das erste Mal, dass ich in Afghanistan war. </seg>
+<seg id="4"> Schon lange davor war ich mit dem Krieg groß geworden, allerdings neben Pyjama-Partys und Fußballspielen an Samstagen und Faustkämpfen mit rassistischen Südstaaten-Kindern und religions-nationalistischen Demonstrationen, die „Nieder mit dem Kommunismus und lang lebe Afghanistan" skandieren, und Breschnew-Bildnisse anzünden, bevor ich überhaupt wusste, was das bedeutete. </seg>
+<seg id="5"> Aber das ist die Geografie des Selbst. </seg>
+<seg id="6"> Und so stehe ich nun hier, gebürtiger Afghane, Südstaaten-Prolet von Gottes Gnaden. Ein Atheist und ein radikal politisierter Künstler, der die letzten neun Jahre in Afghanistan gelebt, gearbeitet und kreiert hat. </seg>
+<seg id="7"> Also, es gibt in Afghanistan viele tolle Dinge über die man Kunst machen könnte, aber ich persönlich mag keine Regenbögen malen. Ich möchte Kunst machen, die die Persönlichkeit durcheinanderbringt und Autorität herausfordert und Heuchelei aufdeckt und die Realität neu interpretiert und die sogar eine Art fantasievoller Völkerkunde benutzt, um zu versuchen, die Welt, in der wir leben, zu verstehen. </seg>
+<seg id="8"> Ich möchte einen Tag im Leben eines Dschihad -Gangsters verbringen, der seinen Dschihad gegen Kommunisten wie „Popstar Bling" austrägt und bewaffnete religiöse Einschüchterung und politische Korruption benutzt, um sich zu bereichern. </seg>
+<seg id="9"> Und was sonst kann der Dschihad-Gangster machen, als für das Parlament zu kandidieren und eine Wahlkampagne zu machen mit dem Slogan: „Wählt mich! Ich mache Dschihad und ich bin reich." </seg>
+<seg id="10"> Und versuchen, diese Kampagne zu nutzen, um diese Mafiosi zu enttarnen, die sich als Nationalhelden ausgeben. </seg>
+<seg id="11"> Ich möchte der Korruption in Afghanistan auf den Grund gehen, mit einem Projekt namens "Rückerstattung", bei dem man sich als Polizist ausgibt, eine falsche Kontrollstelle auf den Straßen von Kabul aufbaut und Autos anhält, aber statt Bestechungsgeld von ihnen zu nehmen, ihnen Geld anbietet und sich im Namen der Kabuler Polizei bei ihnen entschuldigt. Und hoffen, dass sie die 100 Afghanis von uns annehmen. </seg>
+<seg id="12"> Ich möchte mir ansehen, wie der Konflikt in Afghanistan meiner Meinung nach der "modische Konflikt" geworden ist. </seg>
+<seg id="13"> Der Krieg und die fremden Ansichten, die mit ihm kamen, haben eine neue Umgebung für Style und Mode geschaffen, die man nur einfangen kann, indem man eine Modekollektion für Soldaten und Selbstmordattentäter kreiert, in der ich Fell von einheimischen afghanischen Füchsen mit einer Schutzweste kombiniere oder mehrere Innentaschen in eine modische neo-traditionelle Weste einarbeite. </seg>
+<seg id="14"> Und ich würde gerne sehen, wie eine einfache Schubkarre aus Kabul zwischen Kiplings Appell von 1899 aussieht, um einen Dialog darüber zu schaffen, dass die heutigen Entwicklungsinitiativen ihre Wurzeln in vergangener kolonialer Rhetorik über „Die Bürde des Weißen Mannes" haben, um den braunen Mann vor sich selbst zu schützen und ihn eventuell sogar ein wenig zu zivilisieren. </seg>
+<seg id="15"> Aber für all diese Dinge kann man ins Gefängnis kommen, sie können missverstanden werden, fehlinterpretiert. </seg>
+<seg id="16"> Aber ich tue sie, weil ich muss, weil die Geografie des Selbst es verlangt. </seg>
+<seg id="17"> Das ist meine Last. Welche ist Ihre? </seg>
+<seg id="18"> Dankeschön. </seg>
+</doc>
+<doc docid="1647" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model.html</url>
+<description>Cameron Russell gibt zu, dass sie in einer "genetischen Lotterie" gewonnen hat: sie ist groß, hübsch und Unterwäschemodel. Aber beurteilen Sie sie nicht nach ihrem Aussehen. In diesem furchtlosen Beitrag blickt sie mit ein wenig Ironie auf ihre Branche, in der sie mit kaum 16 Jahren schon ziemlich verführerisch aussehen musste. </description>
+<keywords>beauty,culture,fashion,photography</keywords>
+<talkid>1647</talkid>
+<title>Cameron Russell: Aussehen ist nicht alles. Glauben Sie mir, ich bin ein Model.</title>
+<seg id="1"> Hi. Mein Name ist Cameron Russell und seit einiger Zeit arbeite ich als Model. </seg>
+<seg id="2"> Seit 10 Jahren, genau gesagt. </seg>
+<seg id="3"> Ich habe das Gefühl, dass sich jetzt hier im Raum eine ungemütliche Spannung aufbaut, denn ich hätte dieses Kleid nicht anziehen sollen. </seg>
+<seg id="4"> Glücklicherweise habe ich noch etwas zum Wechseln dabei. </seg>
+<seg id="5"> Dies ist das erste Mal, dass sich jemand auf der TED-Bühne umzieht, Sie können sich also glücklich schätzen, das zu sehen, denke ich. </seg>
+<seg id="6"> Falls ein paar Frauen wirklich erschrocken waren, als ich herauskam, brauchen Sie mir das jetzt nicht zu sagen, das lese ich später auf Twitter nach. </seg>
+<seg id="7"> Ich stelle auch fest, dass ich ziemlich privilegiert bin, denn ich kann in sehr kurzen 10 Sekunden verändern, was Sie von mir denken. </seg>
+<seg id="8"> Dazu hat nicht jeder die Chance. </seg>
+<seg id="9"> Diese Absätze sind sehr unbequem, es ist gut, dass ich sie sowieso nicht tragen wollte. </seg>
+<seg id="10"> Der schwierigste Teil ist, den Pullover über meinen Kopf zu ziehen, denn dann werden Sie mich alle auslachen, tun Sie also nichts, solange er über meinem Kopf ist. </seg>
+<seg id="11"> In Ordnung. </seg>
+<seg id="12"> Warum habe ich das jetzt getan? </seg>
+<seg id="13"> Das war peinlich. </seg>
+<seg id="14"> Nun, es war hoffentlich nicht so peinlich wie dieses Bild. </seg>
+<seg id="15"> Ein Image ist mächtig, aber ein Image ist auch oberflächlich. </seg>
+<seg id="16"> Ich habe gerade Ihre Meinung von mir in 6 Sekunden völlig verändert. </seg>
+<seg id="17"> Und auf diesem Bild – ich hatte in Wirklichkeit niemals einen Freund. </seg>
+<seg id="18"> Ich fühlte mich sehr unwohl und der Fotograf sagte mir, ich solle meinen Rücken wölben und mit meiner Hand in die Haare dieses Typen fassen. </seg>
+<seg id="19"> Und abgesehen von Operationen oder der falschen Bräune, die ich mir vor zwei Tagen für die Arbeit zulegte, gibt es nur sehr wenige Möglichkeiten unser Äußeres zu verändern, und unser Äußeres hat – obwohl es oberflächlich und unwandelbar ist – einen großen Einfluss auf unser Leben. </seg>
+<seg id="20"> Furchtlos zu sein heißt für mich, heute ehrlich zu sein. </seg>
+<seg id="21"> Und ich stehe auf dieser Bühne, weil ich ein Model bin. </seg>
+<seg id="22"> Ich stehe auf dieser Bühne, weil ich eine hübsche, weiße Frau bin, und in meiner Branche nennen wir das ein sexy Mädchen. </seg>
+<seg id="23"> Ich werde jetzt die Fragen beantworten, die die Leute mir immer stellen, aber auf die ehrliche Art. </seg>
+<seg id="24"> Die erste Frage lautet: "Wie wird man ein Model?" </seg>
+<seg id="25"> Ich sage immer: "Oh, ich wurde entdeckt," aber das bedeutet gar nichts. </seg>
+<seg id="26"> Der wahre Grund, wie ich ein Model wurde, ist ein Gewinn in der genetischen Lotterie und ein wichtiges Erbe und vielleicht fragen Sie sich, woraus dieses Erbe besteht. </seg>
+<seg id="27"> Nun, in den letzten paar Jahrhunderten haben wir Schönheit nicht nur als gesund und jung und symmetrisch definiert, auf dessen Bewunderung wir biologisch programmiert sind, sondern auch als groß, schlank, feminin und hellhäutig. </seg>
+<seg id="28"> Dieses Erbe wurde für mich erschaffen. Und es ist ein Erbe, das sich für mich auszahlt. </seg>
+<seg id="29"> Ich weiß, es gibt Leute im Publikum, die an diesem Punkt skeptisch sind. Und vielleicht mögen auch einige Modebegeisterte ausrufen: "Halt. Naomi, Tyra. Joan Smalls. Liu Wen." </seg>
+<seg id="30"> Und zunächst kommentiere ich Ihr Model-Wissen. Sehr beeindruckend. </seg>
+<seg id="31"> Aber leider muss ich Ihnen mitteilen, dass im Jahr 2007 ein sehr ambitionierter Doktorand der NYU alle Models auf dem Laufsteg gezählt hat, jedes einzelne, das gebucht wurde, und dass von 677 gebuchten Models nur 27 oder weniger als vier Prozent nicht weiß waren. </seg>
+<seg id="32"> Die nächste Frage, die mir immer gestellt wird, lautet: "Kann ich ein Model werden, wenn ich erwachsen bin?" </seg>
+<seg id="33"> Und zunächst antworte ich: "Ich weiß nicht, das liegt nicht in meiner Verantwortung." </seg>
+<seg id="34"> Aber die zweite Antwort, die ich diesen kleinen Mädchen wirklich geben möchte, ist: "Warum? </seg>
+<seg id="35"> Weißt du was? Du kannst alles werden. </seg>
+<seg id="36"> Du kannst Präsidentin der USA werden oder die Erfinderin des nächsten Internets oder eine Ninja-Herzchirurg-Dichterin, was total irre wäre, denn dann wärst du die erste." </seg>
+<seg id="37"> Wenn sie nach dieser tollen Aufzählung immer noch sagen: "Nein, nein, Cameron, ich will ein Model werden," dann sage ich: "Werde mein Chef." </seg>
+<seg id="38"> Denn ich habe keine Verantwortung für nichts und du könntest die Chefredakteurin der amerikanischen Vogue sein oder die Geschäftsführerin von H&amp;M oder der nächste Steven Meisel. </seg>
+<seg id="39"> Zu sagen, dass man später ein Model werden will, ist so, als würde man sagen, dass man einmal den Jackpot im Lotto gewinnen will. </seg>
+<seg id="40"> Man kann es nicht beeinflussen und es ist fantastisch und es ist kein Karriereweg. </seg>
+<seg id="41"> Jetzt möchte ich Ihnen 10 Jahre geballtes Model-Wissen demonstrieren, denn anders als Herzchirurgen kann es sich nur gerade jetzt entfalten. </seg>
+<seg id="42"> Wenn es dort einen Fotografen gibt und das Licht ist genau dort, wie ein netter Strahler, und der Kunde sagt: "Cameron, wir möchten ein Foto im Laufen," nun, dann geht das Bein zuerst, schön und lang, dieser Arm geht nach hinten, dieser Arm nach vorne, der Kopf ist auf Dreiviertel und man bewegt sich einfach vor und zurück, einfach so und dann sieht man zurück zu seinen imaginären Freunden, 300, 400, 500 Mal. </seg>
+<seg id="43"> Es sieht dann ungefähr so aus. </seg>
+<seg id="44"> Hoffentlich weniger komisch als das in der Mitte. </seg>
+<seg id="45"> Das war ... ich weiß nicht, was da passiert ist. </seg>
+<seg id="46"> Wenn man die Schule beendet und einen Lebenslauf hat und ein paar Jobs gemacht hat, kann man leider nicht mehr viel sagen. Wenn man sagt, dass man Präsidentin der USA sein will, aber im Lebenslauf steht: "10 Jahre Unterwäsche-Model," dann wird man komisch angesehen. </seg>
+<seg id="47"> Die nächste Frage, die mir oft gestellt wird, ist: "Werden alle Fotos retuschiert?" </seg>
+<seg id="48"> Und ja, so ziemlich alle Fotos werden retuschiert, aber das ist nur ein kleiner Teil des Geschehens. </seg>
+<seg id="49"> Das ist das allererste Foto, das ich gemacht habe, und das war auch das allererste Mal, dass ich einen Bikini trug. Ich hatte damals noch nicht einmal meine Periode. </seg>
+<seg id="50"> Ich weiß, das wird jetzt ziemlich persönlich, aber ich war ein junges Mädchen. </seg>
+<seg id="51"> So sah ich nur ein paar Monate zuvor aus, mit meiner Großmutter. </seg>
+<seg id="52"> Das bin ich am Tag dieses Shootings. </seg>
+<seg id="53"> Meine Freundin musste mich begleiten. </seg>
+<seg id="54"> Das bin ich auf einer Pyjama-Party, ein paar Tage vor einem Shooting für die französische Vogue. </seg>
+<seg id="55"> Das bin ich mit dem Fußball-Team und im V-Magazin. </seg>
+<seg id="56"> Und das bin ich heute. </seg>
+<seg id="57"> Und ich hoffe, Sie sehen, dass diese Bilder keine Bilder von mir sind. </seg>
+<seg id="58"> Es sind Konstrukte und es sind Konstrukte einer Gruppe von Profis, von Hairstylisten und Make-up-Künstlern und Fotografen und Stylisten und allen ihren Assistenten und der Vor- und Nachproduktion. Sie konstruieren das. Das bin nicht ich. </seg>
+<seg id="59"> Okay, als nächstes fragen die Leute mich immer: "Kriegst du Sachen umsonst?" </seg>
+<seg id="60"> Ja, ich habe zu viele 20-cm-Absatzschuhe, die ich niemals tragen kann, außer eben, aber die Dinge, die ich gratis bekomme, sind Dinge, die ich im echten Leben bekomme und darüber reden wir nicht gerne. </seg>
+<seg id="61"> Ich bin in Cambridge aufgewachsen und eines Tages ging ich in einen Laden und hatte mein Geld vergessen. Und man gab mir das Kleid für umsonst. </seg>
+<seg id="62"> Als Teenager fuhr ich bei meiner Freundin mit, eine furchtbare Fahrerin, und sie überfuhr eine rote Ampel und natürlich wurden wir angehalten. Es brauchte nur ein: "Entschuldigung, Herr Wachtmeister," und schon konnten wir weiterfahren. </seg>
+<seg id="63"> Ich habe diese kostenlosen Dinge wegen meines Aussehens bekommen und nicht wegen meiner Persönlichkeit und es gibt Menschen, die wegen ihres Aussehens und nicht wegen ihrer Persönlichkeit einen hohen Preis bezahlen. </seg>
+<seg id="64"> Ich lebe in New York und von den 140 000 Teenagern, die im letzten Jahr angehalten und gefilzt wurden, waren 85 Prozent Schwarze und Latinos und meistens junge Männer. </seg>
+<seg id="65"> Es leben in New York nur 177 000 junge, männliche Schwarze und Latinos, für die sich nicht die Frage stellt: "Werde ich angehalten?" </seg>
+<seg id="66"> Sondern: "Wie oft werde ich angehalten? Wann werde ich angehalten?" </seg>
+<seg id="67"> Bei meiner Recherche für diesen Vortrag fand ich heraus, dass 53 Prozent aller 13-jährigen Mädchen in den USA ihren Körper nicht mögen. Und diese Zahl steigt auf 78 Prozent, wenn sie 17 geworden sind. </seg>
+<seg id="68"> Die letzte Frage an mich lautet: "Wie ist es, ein Model zu sein?" </seg>
+<seg id="69"> Und ich glaube, sie erwarten diese Antwort: "Wenn du ein bisschen dünner bist und glänzenderes Haar hast, dann fühlst du dich sehr glücklich und fabelhaft." </seg>
+<seg id="70"> Und Backstage geben wir eine Antwort, die vielleicht diesen Eindruck vermittelt. </seg>
+<seg id="71"> Wir sagen: "Es ist wirklich toll, so viel zu reisen, und es ist toll, mit kreativen, inspirierten, leidenschaftlichen Menschen zu arbeiten." </seg>
+<seg id="72"> Alles das ist wahr, aber es ist nur die eine Hälfte der Geschichte, denn was wir niemals vor der Kamera sagen, was ich niemals vor der Kamera gesagt habe, ist: "Ich fühle mich unsicher." </seg>
+<seg id="73"> Und ich fühle mich unsicher, weil ich jeden Tag über mein Aussehen nachdenken muss. </seg>
+<seg id="74"> Und falls Sie sich je fragen: "Wäre ich glücklicher, wenn ich dünnere Beine und glänzenderes Haar hätte?" </seg>
+<seg id="75"> Dann sollten Sie ein paar Models treffen, denn sie haben die dünnsten Beine und das glänzendste Haar und die coolsten Klamotten und sie sind die wegen ihres Aussehens vermutlich unsichersten Frauen auf dem Planeten. </seg>
+<seg id="76"> Als ich diesen Vortrag vorbereitet habe, erschien es mir sehr schwierig, eine ehrliche Bilanz zu ziehen, denn einerseits fühlte ich mich sehr unwohl dabei, mich hier hinzustellen und zu sagen: "Ich bekam alle Vorteile aus einem Stapel, der zu meinen Gunsten gemischt wurde." Und es fühlt sich auch nicht sehr gut an, dem anzufügen: "Und das macht mich nicht immer glücklich." </seg>
+<seg id="77"> Es war vor allem sehr schwierig, ein Erbe von Unterdrückung wegen Geschlecht und Rasse offenzulegen, wenn ich einer der größten Nutznießer davon bin. </seg>
+<seg id="78"> Ich bin aber auch glücklich und fühle mich geehrt, hier stehen zu dürfen, und ich finde es großartig, dass ich es hierher geschafft habe, bevor 10 oder 20 oder 30 Jahre vergangen sind und meine Karriere noch ausgefüllter ist, denn dann würde ich vermutlich nicht erzählen, wie ich meinen ersten Job bekam, oder ich würde vielleicht nicht erzählen, wie ich das College bezahlt habe, was derzeit so ungeheuer wichtig ist. </seg>
+<seg id="79"> Wenn Sie aus diesem Vortrag etwas mitnehmen, dann hoffentlich, dass wir alle die Macht des Image in unseren vermeintlichen Erfolgen und Fehlschlägen eher erkennen. </seg>
+<seg id="80"> Danke. </seg>
+</doc>
+<doc docid="1659" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/zahra_langhi_why_libya_s_revolution_didn_t_work_and_what_might.html</url>
+<description>Zahra' Langhi war ein Teil der "Tage des Zorns"-Bewegung in Libyen, die half den Diktator Gaddafi zu stürzen. Aber, was dann? In ihren ersten Wahlen testeten Libyer eine innovative Kandidatenliste, die "Reißverschluss-Wahl", die gleichwertige Vertretung von Männern und Frauen auf beiden Seiten sicher stellte. Trotzdem gewann die selbe festgefahrene Politik der Dominanz und des Ausschlusses. Was Libyen jetzt braucht, so schlägt Langhi vor, ist Zusammenarbeit, nicht Konkurrenz; Mitgefühl, nicht Zorn.</description>
+<keywords>compassion,global issues,politics,women</keywords>
+<talkid>1659</talkid>
+<title>Zahra' Langhi: Warum Libyens Revolution nicht funktioniert hat — und was funktionieren könnte</title>
+<seg id="1"> Ich habe die Worte meiner Großmutter niemals vergessen, die im Exil ums Leben gekommen ist: "Son, leiste Gaddafi Widerstand. Bekämpfe ihn. </seg>
+<seg id="2"> Aber werde niemals zu so etwas wie einem Gaddafi-Revolutionär." </seg>
+<seg id="3"> Es sind nun fast zwei Jahre vergangen, seit die libysche Revolution ausgebrochen ist, inspiriert von den Wellen der Massenaufbietungen sowohl in der tunesischen als auch in der ägyptischen Revolution. </seg>
+<seg id="4"> Ich verbündete mich mit vielen anderen Libyern, innerhalb und außerhalb Libyens, um einen Tag des Zorns einzufordern und um eine Revolution gegen das tyrannische Regime Gadaffis zu starten. </seg>
+<seg id="5"> Und da war sie, eine große Revolution. </seg>
+<seg id="6"> Junge, libysche Frauen und Männer standen in der ersten Reihe, forderten das Ende des Regimes, hielten Slogans der Freiheit, Würde und sozialer Gerechtigkeit in die Luft. </seg>
+<seg id="7"> Sie haben beispielhaften Mut bewiesen, indem sie sich gegen die brutale Diktatur Gaddafis gestellt haben. </seg>
+<seg id="8"> Sie haben einen starken Sinn für Solidarität gezeigt, vom fernen Osten über den fernen Westen, bis in den Süden. </seg>
+<seg id="9"> Schließlich, nach einem Zeitraum von sechs Monaten brutalen Krieges und fast 50.000 Toten, gelang es uns, unser Land zu befreien und den Tyrannen zu stürzen. </seg>
+<seg id="10"> Gaddafi hat jedoch eine große Bürde hinterlassen, ein Vermächtnis der Tyrannei, der Korruption und die Grundlage für Kurswechsel. </seg>
+<seg id="11"> Über vier Jahrzehnte hat Gaddafis tyrannisches Regime sowohl die Infrastruktur, als auch die Kultur und die moralische Struktur der lybischen Gesellschaft zerstört. </seg>
+<seg id="12"> Der Verwüstung und den Herausforderungen bewusst, brannte ich, wie so viele andere Frauen darauf, die Zivilgesellschaft Lybiens wieder aufzubauen. Wir forderten einen mitbestimmten und gerechten Übergang zu Demokratie und nationalem Ausgleich. </seg>
+<seg id="13"> Nahezu 200 Organisationen wurden während und unmittelbar nach dem Fall Gaddafis in Benghazi gegründet, fast 300 in Tripolis. </seg>
+<seg id="14"> Nach 33 Jahren im Exil, kam ich zurück nach Lybien, und mit einzigartigem Enthusiasmus begann ich Workshops zu den Themen Kapazitätsbildung, menschlicher Entwicklung und Führungskompetenzen zu organisieren. </seg>
+<seg id="15"> Mit einer wunderbaren Gruppe von Frauen gründete ich die Friedensplattform Libyscher Frauen, eine Bewegung von Frauen, Führungspersönlichkeiten aus verschiedenen Lebensbereichen, deren Ziel es ist, öffentlich für die soziopolitische Stärkung der Frauen einzustehen und für unser Recht auf gleichwertige Mitbestimmung bei der Demokratie- und Friedensbildung. </seg>
+<seg id="16"> Bei den Vorwahlen traf ich auf ein sehr schwieriges Umfeld, ein Umfeld, das immer stärker polarisierte. Ein Umfeld, das von der egoistischen Politik von Dominanz und Ausschluss geprägt war. </seg>
+<seg id="17"> Ich leitete eine Initiative der Friedensplattform Libyscher Frauen, um ein mitbestimmteres Wahlgesetz zu erreichen, ein Gesetz, das jedem Bürger, egal mit welchem Hintergrund, das Recht geben sollte zu wählen und zu kandidieren und vor allem um für politische Parteien einen Wechsel zwischen männlichen und weiblichen Kandidaten auf vertikaler und horizontaler Ebene festzulegen und damit eine Reißverschluss-Liste zu bewirken. </seg>
+<seg id="18"> Am Ende wurde unsere Initiative übernommen und erfolgreich. </seg>
+<seg id="19"> Frauen gewannen 17,5 Prozent des Nationalkongresses in den ersten Wahlen seit 52 Jahren. </seg>
+<seg id="20"> Langsam aber sicher lies jedoch die Euphorie der Wahlen und die der gesamten Revolution nach — denn jeden Tag wachten wir zu neuen Nachrichten von Gewalt auf. </seg>
+<seg id="21"> Einen Morgen erwachten wir zu der Meldung über Schändungen uralter Moscheen und Sufi-Gräbern. </seg>
+<seg id="22"> An einem anderen Morgen erhielten wir Nachricht über den Mord am Amerikanischen Botschafter und den Angriff auf die Botschaft. </seg>
+<seg id="23"> An wieder einem anderen Morgen wurden die Ermordungen von Offizieren der Armee gemeldet. </seg>
+<seg id="24"> Und wirklich jeden Tag erwachen wir unter der Herrschaft der Milizen und ihren andauernden Verstößen gegen die Menschenrechte Gefangener und ihrer Missachtung von Regeln und Gesetzen. </seg>
+<seg id="25"> Unsere Gesellschaft, geformt von einer revolutionären Geisteshaltung, polarisierte sich und entfernte sich von den Idealen und Prinzipien — Freiheit, Würde, soziale Gerechtigkeit — die sie anfangs inne hatte. </seg>
+<seg id="26"> Intoleranz, Ausschluss und Rache wurden zu den Ikonen der [Folgezeit] der Revolution. </seg>
+<seg id="27"> Ich bin heute nicht da, um Sie zu inspirieren mit der Erfolgsgeschichte unserer Reißverschluss-Liste und den Wahlen. </seg>
+<seg id="28"> Vielmehr bin ich heute hier um zu gestehen, dass wir, als eine Nation, die falsche Auswahl und die falschen Entscheidungen getroffen haben. </seg>
+<seg id="29"> Wir haben unsere Prioritäten falsch gesetzt. </seg>
+<seg id="30"> Denn die Wahlen brachten weder Frieden noch Stabilität oder Sicherheit in Lybien. </seg>
+<seg id="31"> Hat die Reißverschluss-Liste und der Wechsel zwischen weiblichen und männlichen Kandidaten Frieden und nationale Versöhnung gebracht? </seg>
+<seg id="32"> Nein, das hat sie nicht. </seg>
+<seg id="33"> Was ist es dann? </seg>
+<seg id="34"> Wieso wird unsere Gesellschaft weiterhin polarisiert und dominiert von selbstsüchtiger Politik der Dominanz und des Ausschlusses, sowohl von Männern als auch Frauen? </seg>
+<seg id="35"> Vielleicht waren die Frauen nicht das Einzige, das gefehlt hat, sondern die weiblichen Werte des Mitgefühls, der Gnade und des Einschlusses. </seg>
+<seg id="36"> Unsere Gesellschaft braucht einen nationalen Dialog und Konsensbildung dringender als sie die Wahlen gebraucht hat, die am Ende nur die Polarisierung und Entzweiung bestärkt haben. </seg>
+<seg id="37"> Unsere Gesellschaft braucht die qualitative Verkörperung des Weiblichen mehr als sie die numerische, quantitative Verkörperung des Weiblichen braucht. </seg>
+<seg id="38"> Wir müssen aufhören im Namen des Zorns zu handeln und einen Tag der Rache zu fordern. </seg>
+<seg id="39"> Wir müssen anfangen im Namen des Mitgefühls und der Gnade zu handeln. </seg>
+<seg id="40"> Wir müssen einen weiblichen Diskurs entwickeln, der die folgenden Werte nicht nur würdigt, sondern auch umsetzt: Gnade anstatt Rache, Zusammenarbeit anstatt Konkurrenz, Einschluss anstatt Ausschluss. </seg>
+<seg id="41"> Dies sind die Ideale, die ein vom Krieg zerrissenes Lybien verzweifelt braucht, um Frieden zu erreichen. </seg>
+<seg id="42"> Denn der Frieden hat eine Alchemie und in dieser Alchemie geht es um die Verflechtung der femininen und maskulinen Sichtweisen. </seg>
+<seg id="43"> Das ist der wahre Reißverschluss. </seg>
+<seg id="44"> Und das müssen wir existenziell umsetzen, bevor wir es soziopolitisch tun. </seg>
+<seg id="45"> Nach einem Vers aus dem Koran "Salam" – Friede — "ist das Wort des barmherzigen Gottes, raheem." </seg>
+<seg id="46"> Das Wort "raheem" wiederum, das in allen abrahamischen Traditionen bekannt ist, hat dieselbe arabische Wurzel wie das Wort "rahem" — Mutterleib — und symbolisiert das mütterlich Feminine, das die gesamte Menschheit umgibt, von dem das Männliche und das Weibliche, von dem alle Stämme und alle Völker ausgegangen sind. </seg>
+<seg id="47"> Und genau wie der Mutterleib den Embryo, der in ihm wächst, komplett umgibt so nährt das Grundgerüst des Mitgefühls die gesamte Existenz. </seg>
+<seg id="48"> Deshalb wurde uns gesagt: "Meine Gnade schließt alle Dinge ein." </seg>
+<seg id="49"> Deshalb wurde uns gesagt: "Meine Gnade hat Vorzug vor meinem Groll." </seg>
+<seg id="50"> Möge uns allen die Gunst der Gnade gewährt werden. </seg>
+<seg id="51"> Vielen Dank. </seg>
+</doc>
+<doc docid="1694" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/hyeonseo_lee_my_escape_from_north_korea.html</url>
+<description>Aufgewachsen in Nordkorea, dachte Hyeonseo Lee, ihr Land sei "das beste der Welt". Erst mit der Hungersnot der 90er begann sie zu zweifeln. Sie flüchtete mit 14 Jahren und tauchte unter als Flüchtling in China. Es ist eine erschütternde und persönliche Geschichte vom Überleben und der Hoffnung – eine beeindruckende Erinnerung all jener, die in ständiger Gefahr leben, auch wenn die Grenze schon lange hinter ihnen liegt.</description>
+<keywords>culture,global issues,politics</keywords>
+<talkid>1694</talkid>
+<title>Hyeonseo Lee: Meine Flucht aus Nordkorea</title>
+<seg id="1"> Als ich klein war, dachte ich, mein Land sei das beste der Welt, und ich wuchs mit dem Lied "Nichts zu beneiden" auf. </seg>
+<seg id="2"> Und ich war sehr stolz. </seg>
+<seg id="3"> In der Schule paukten wir die Geschichte von Kim Il-Sung, aber wir lernten nicht sehr viel über die Welt da draußen, außer, dass Amerika, Süd-Korea und Japan unsere Feinde sind. </seg>
+<seg id="4"> Obwohl ich mich oft fragte, wie die Außenwelt ist, dachte ich, ich würde mein ganzes Leben in Nordkorea verbringen, bis zu einem alles verändernden Zeitpunkt. </seg>
+<seg id="5"> Mit sieben Jahren sah ich zum ersten Mal eine öffentliche Hinrichtung, aber ich dachte, mein Leben in Nordkorea sei normal. </seg>
+<seg id="6"> Meine Familie war nicht arm, und ich selbst musste nie Hunger leiden. </seg>
+<seg id="7"> Aber im Jahr 1995 brachte meine Mutter einen Brief mit, von der Schwester einer Kollegin. </seg>
+<seg id="8"> Darin stand: "Wenn ihr das hier lest, werden unsere fünf Familienmitglieder nicht mehr auf dieser Welt sein, weil wir seit zwei Wochen nichts mehr gegessen haben. </seg>
+<seg id="9"> Wir liegen zusammen auf dem Boden und unsere Körper sind so schwach, dass wir bald sterben." </seg>
+<seg id="10"> Ich war so schockiert. </seg>
+<seg id="11"> Ich hörte zum ersten Mal davon, dass Menschen in meinem Land litten. </seg>
+<seg id="12"> Kurz darauf ging ich am Bahnhof vorbei und sah etwas Schreckliches, das ich nicht mehr aus meiner Erinnerung löschen kann. </seg>
+<seg id="13"> Eine leblose Frau lag auf dem Boden, und ein abgemagertes Kind in ihren Arm blickte hilflos in das Gesicht seiner Mutter. </seg>
+<seg id="14"> Aber niemand half ihnen, weil alle so damit beschäftigt waren, sich um sich selbst und ihre Familien zu kümmern. </seg>
+<seg id="15"> Mitte der 1990er gab es eine große Hungersnot in Nordkorea. </seg>
+<seg id="16"> Am Ende waren mehr als eine Million Nordkoreaner der Hungersnot zum Opfer gefallen, und viele weitere überlebten nur, weil sie Gras, Käfer und Baumrinde aßen. </seg>
+<seg id="17"> Stromausfälle wurden immer häufiger, sodass sich nachts um mich alles verdunkelte, außer den Lichtern von China auf der anderen Seite des Ufers, an dem wir wohnten. </seg>
+<seg id="18"> Ich fragte mich immer, warum sie dort Lichter hatten und wir nicht. </seg>
+<seg id="19"> Das ist ein Satellitenbild von Nordkorea und seinen Nachbarn bei Nacht. </seg>
+<seg id="20"> Das ist der Fluss Amrok , der zum Teil als Grenze zwischen Nordkorea und China dient. </seg>
+<seg id="21"> Wie Sie sehen, kann der Fluss stellenweise sehr seicht sein und ermöglicht Nordkoreanern die Flucht. </seg>
+<seg id="22"> Aber viele sterben. </seg>
+<seg id="23"> Manchmal sah ich Leichen im Fluss treiben. </seg>
+<seg id="24"> Ich kann nicht viel darüber sagen, wie ich Nordkorea verließ, aber ich kann sagen, dass ich während der verheerenden Jahre der Hungersnot zu entfernten Verwandten nach China geschickt wurde. </seg>
+<seg id="25"> Ich dachte bloß, dass ich für eine kurze Zeit von meiner Familie getrennt sein würde. </seg>
+<seg id="26"> Ich hätte mir nie gedacht, dass es 14 Jahre braucht, um wieder zusammenzuleben. </seg>
+<seg id="27"> In China war es sehr schwer, als junges Mädchen ohne Familie zu leben. </seg>
+<seg id="28"> Ich hatte keine Vorstellung davon, wie das Leben als nordkoreanischer Flüchtling sein würde. Aber bald erfuhr ich, dass es nicht nur extrem schwierig, sondern auch sehr gefährlich ist. Denn nordkoreanische Flüchtlinge werden in China als illegale Immigranten gesehen. </seg>
+<seg id="29"> Ich lebte also in ständiger Angst, dass meine wahre Identität auffliegen könnte, und man würde mich in ein schreckliches Schicksal nach Nordkorea zurücksenden. </seg>
+<seg id="30"> Eines Tages wurde mein größter Alptraum wahr, als ich von der chinesischen Polizei gefangen und in die Polizeistation zum Verhör gebracht wurde. </seg>
+<seg id="31"> Jemand bezichtigte mich, Nordkoreanerin zu sein, also testeten sie meine Chinesischkenntnisse und stellten mir unzählige Fragen. </seg>
+<seg id="32"> Ich hatte solche Angst, ich dachte mein Herz würde explodieren. </seg>
+<seg id="33"> Würde irgendetwas unnatürlich erscheinen, könnte ich eingesperrt und abgewiesen werden. </seg>
+<seg id="34"> Ich dachte, das wäre das Ende meines Lebens, aber ich schaffte es, meine Gefühle zu kontrollieren und beantwortete die Fragen. </seg>
+<seg id="35"> Nachdem sie mit dem Ausfragen fertig waren, sagte ein Beamter zum anderen: "Das war eine Falschmeldung. </seg>
+<seg id="36"> Sie ist keine Nordkoreanerin." </seg>
+<seg id="37"> Und sie ließen mich gehen. Es war ein Wunder. </seg>
+<seg id="38"> Manche Nordkoreaner ersuchen in China bei ausländischen Botschaften Asyl, aber viele werden von der chinesischen Polizei erwischt und abgewiesen. </seg>
+<seg id="39"> Diese Mädchen hatten großes Glück. </seg>
+<seg id="40"> Obwohl sie erwischt wurden, wurden sie schließlich freigelassen aufgrund immensen internationalen Drucks. </seg>
+<seg id="41"> Diese Nordkoreanerinnen hatten nicht so viel Glück. </seg>
+<seg id="42"> Jedes Jahr werden unzählige Nordkoreaner in China erwischt und nach Nordkorea abgewiesen, wo sie gefoltert, eingesperrt oder öffentlich hingerichtet werden. </seg>
+<seg id="43"> Obwohl ich bei meiner Flucht Glück hatte, geht es vielen anderen Nordkoreanern nicht so. </seg>
+<seg id="44"> Es ist ist tragisch, dass Nordkoreaner ihre Identität verbergen und hart ums Überleben kämpfen müssen. </seg>
+<seg id="45"> Auch nachdem sie eine neue Sprache gelernt und Arbeit gefunden haben, kann ihre Welt in einem Moment auf den Kopf gestellt werden. </seg>
+<seg id="46"> Nach 10 Jahren des Versteckens entschied ich mich deshalb dazu, nach Südkorea zu gehen, und wieder habe ich ein neues Leben begonnen. </seg>
+<seg id="47"> Mich in Südkorea niederzulassen, war eine größere Herausforderung, als ich es mir gedacht hätte. </seg>
+<seg id="48"> Englisch war in Südkorea so wichtig, dass ich anfangen musste, meine dritte Sprache zu lernen. </seg>
+<seg id="49"> Zudem habe ich den großen Unterschied zwischen Nord- und Südkorea wahrgenommen. </seg>
+<seg id="50"> Wir sind alle Koreaner, aber im Inneren haben wir uns sehr auseinanderentwickelt, aufgrund von 67 Jahren der Teilung. </seg>
+<seg id="51"> Ich durchlief eine Identitätskrise. </seg>
+<seg id="52"> Bin ich Süd- oder Nordkoreanerin? </seg>
+<seg id="53"> Woher komme ich? Wer bin ich? </seg>
+<seg id="54"> Plötzlich gab es kein Land mehr, das meine Heimat hätte sein können. </seg>
+<seg id="55"> Obwohl mir die Anpassung an das südkoreanische Leben nicht leicht fiel, hatte ich einen Plan. </seg>
+<seg id="56"> Ich bereitete mich für die Aufnahmeprüfung an der Universität vor. </seg>
+<seg id="57"> Gerade als ich mich an mein neues Leben gewöhnte, erhielt ich einen schockierenden Anruf. </seg>
+<seg id="58"> Die nordkoreanischen Behörden fingen das Geld ab, das ich meiner Familie schickte, und als Strafe wurde meine Familie zwangsweise umgesiedelt, an einen abgelegenen Ort auf dem Land. </seg>
+<seg id="59"> Sie mussten so schnell als möglich fliehen, also begann ich ihre Flucht zu planen. </seg>
+<seg id="60"> Nordkoreaner müssen eine unglaubliche Strecke zurücklegen auf ihrem Weg zur Freiheit. </seg>
+<seg id="61"> Es ist fast unmöglich, die Grenze zwischen Nord- und Südkorea zu überqueren. Ironischerweise nahm ich einen Flug zurück nach China und machte mich auf den Weg zur nordkoreanischen Grenze. </seg>
+<seg id="62"> Weil meine Familie kein Chinesisch sprach, musste ich sie leiten, auf mehr als 2.000 Meilen durch China und dann nach Südostasien. </seg>
+<seg id="63"> Die Busfahrt dauerte eine Woche und wir wurden mehrmals fast erwischt. </seg>
+<seg id="64"> Einmal, als der Bus aufgehalten wurde, kam ein chinesischer Polizeibeamter herein. </seg>
+<seg id="65"> Er nahm die Ausweise von allen und begann, Fragen zu stellen. </seg>
+<seg id="66"> Da meine Familie kein Chinesisch verstand, dachte ich mir, sie würden festgenommen werden. </seg>
+<seg id="67"> Als der chinesische Beamte meine Familie ansprach, stand ich entschlossen auf und sagte ihm, dass sie taubstumm wären, und ich ihre Aufsichtsperson sei. </seg>
+<seg id="68"> Er schaute mich misstrauisch an, aber glücklicherweise glaubte er mir. </seg>
+<seg id="69"> Wir schafften es bis zur laotischen Grenze, aber ich musste fast all mein Geld aufbrauchen, um die Grenzkontrollen von Laos zu bestechen. </seg>
+<seg id="70"> Aber selbst nachdem wir die Grenze überschritten hatten, wurde meine Familie inhaftiert, wegen illegaler Grenzüberquerung. </seg>
+<seg id="71"> Nachdem ich Geldstrafe und Schmiergeld gezahlt hatte, wurde meine Familie innerhalb eines Monats freigelassen. Aber kurz darauf wurde meine Familie wieder inhaftiert, in der Hauptstadt von Laos. </seg>
+<seg id="72"> Das war einer der größten Rückschläge meines Lebens. </seg>
+<seg id="73"> Ich hatte alles getan, um meiner Familie zur Freiheit zu verhelfen, und wir waren so nahe dran, aber meine Familie wurde festgenommen, nur kurz vor der südkoreanischen Botschaft. </seg>
+<seg id="74"> Ich ging hin und her zwischen der Einwanderungsbehörde und der Polizeistation, und versuchte verzweifelt, meine Familie zu befreien, aber ich hatte nicht genug Geld, um wieder Schmiergeld oder Geldstrafen zu zahlen. </seg>
+<seg id="75"> Ich verlor all meine Hoffnung. </seg>
+<seg id="76"> Da fragte mich die Stimme eines Mannes, "Was ist los?" </seg>
+<seg id="77"> Ich war völlig überrascht, dass sich ein Fremder darum kümmert. </seg>
+<seg id="78"> In gebrochenem Englisch und mit einem Wörterbuch erklärte ich meine Situation und ohne zu zögern ging er zu einem Bankomat, und zahlte das Geld für meine Familie und zwei weitere Nordkoreaner, um sie aus dem Gefängnis zu bekommen. </seg>
+<seg id="79"> Ich dankte ihm von ganzem Herzen und fragte: "Warum helfen Sie mir?" </seg>
+<seg id="80"> "Ich helfe nicht Ihnen," antwortete er. </seg>
+<seg id="81"> "Ich helfe den nordkoreanischen Menschen." </seg>
+<seg id="82"> Mir wurde klar, dass dies ein symbolischer Moment in meinem Leben war. </seg>
+<seg id="83"> Der zuvorkommende Fremde symbolisierte für mich eine neue Hoffnung, die die Nordkoreaner so dringend brauchten, und er zeigte mir die Freundlichkeit von Fremden und die Unterstützung der internationalen Gemeinschaft als den Hoffnungsschimmer, den die Nordkoreaner brauchen. </seg>
+<seg id="84"> Schließlich, nach unserer langen Reise, waren meine Familie und ich wieder vereint in Südkorea, aber die Freiheit zu erlangen ist nur ein Schritt. </seg>
+<seg id="85"> Viele Nordkoreaner werden von ihren Familien getrennt und sobald sie in einem neuen Land ankommen, fangen sie mit wenig oder gar keinem Geld an. </seg>
+<seg id="86"> Die internationale Gemeinschaft kann uns helfen bei der Bildung, dem Englischlernen, der Berufsausbildung und vielem mehr. </seg>
+<seg id="87"> Wir können auch die Brücke sein zwischen den Menschen in Nordkorea und der Außenwelt, weil viele von uns noch in Kontakt mit Familienangehörigen bleiben, und wir schicken ihnen Informationen und Geld, das hilft, Nordkorea von innen her zu verändern. </seg>
+<seg id="88"> Ich hatte so ein Glück, so viel Hilfe und Inspiration in meinem Leben zu bekommen, dass ich hoffnungsvollen Nordkoreanern zu Erfolg verhelfen möchte, mit internationaler Unterstützung. </seg>
+<seg id="89"> Ich bin sicher, dass Sie noch viel mehr erfolgreiche Nordkoreaner auf der ganzen Welt sehen werden, auch auf der Bühne von TED. </seg>
+<seg id="90"> Vielen Dank. </seg>
+</doc>
+<doc docid="1600" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/faith_jegede_what_i_ve_learned_from_my_autistic_brothers.html</url>
+<description>Faith Jegede erzählt die bewegende und lustige Geschichte vom Aufwachsen mit ihren zwei Brüdern, beide autistisch – und beide außergewöhnlich. In dieser Rede bei der TED Talent Seach erinnert sie uns daran, nach einem Leben jenseits des Normalen zu streben.</description>
+<keywords>brain,culture,mental health,storytelling</keywords>
+<talkid>1600</talkid>
+<title>Faith Jegede: Was ich von meinen autistischen Brüdern gelernt habe</title>
+<seg id="1"> Ich habe heute nur eine Bitte. </seg>
+<seg id="2"> Bitte sagen Sie mir nicht, dass ich normal bin. </seg>
+<seg id="3"> Ich möchte Ihnen nun meine Brüder vorstellen. </seg>
+<seg id="4"> Remi ist 22, groß und sehr gutaussehend. </seg>
+<seg id="5"> Er kann nicht sprechen, aber er kommuniziert Freude auf eine Art, wie es einige der besten Redner nicht könnten. </seg>
+<seg id="6"> Remi weiß, was Liebe ist. </seg>
+<seg id="7"> Er teilt sie bedingungslos und er teilt sie unbekümmert. </seg>
+<seg id="8"> Er ist nicht gierig. Er achtet nicht auf die Hautfarbe. </seg>
+<seg id="9"> Er kümmert sich nicht um religiöse Unterschiede und stellen Sie sich nur vor: Er hat noch niemals eine Lüge erzählt. </seg>
+<seg id="10"> Wenn er Lieder aus unserer Kindheit singt, sich an Wörtern versucht, an die noch nicht einmal ich mich erinnere, erinnert er mich an eine Sache: wie wenig wir über den Verstand wissen und wie wunderbar das Unbekannte sein muss. </seg>
+<seg id="11"> Samuel ist 16. Er ist groß. Er ist sehr gutaussehend. </seg>
+<seg id="12"> Er hat ein absolut unfehlbares Gedächtnis. </seg>
+<seg id="13"> Er hat aber auch ein selektives. </seg>
+<seg id="14"> Er kann sich nicht erinnern, ob er meinen Schokoladenriegel gestohlen hat, aber er erinnert sich an das Veröffentlichungsjahr von jedem Lied auf meinem iPod, Gespräche, die wir hatten, als er vier war, während der allerersten Folge der Teletubbies auf meinen Arm gepinkelt zu haben und Lady Gagas Geburtstag. </seg>
+<seg id="15"> Hören sie sich nicht unglaublich an? </seg>
+<seg id="16"> Doch viele Leute stimmen nicht zu. </seg>
+<seg id="17"> Und tatsächlich, weil ihr Verstand nicht in die gesellschaftliche Version von Normal passt, werden sie oft übergangen und falsch verstanden. </seg>
+<seg id="18"> Aber was mein Herz ermuntert und meine Seele gestärkt hat, war, dass, obwohl dies der Fall war, obwohl sie nicht als gewöhnlich angesehen wurden, dies nur eins bedeuten konnte: dass sie außergewöhnlich waren – autistisch und außergewöhnlich. </seg>
+<seg id="19"> Nun, für diejenigen von Ihnen, die nicht so vertraut mit dem Begriff „Autismus" sind; es ist eine komplexe Funktionsstörung des Gehirns, die die soziale Kommunikation, das Lernen und manchmal körperliche Fähigkeiten beeinflusst. </seg>
+<seg id="20"> Es äußert sich bei jedem Individuum unterschiedlich, darum ist Remi so anders als Sam. </seg>
+<seg id="21"> Und weltweit wird alle 20 Minuten bei einer neuen Person Autismus festgestellt und obwohl es eine der am schnellsten wachsenden Entwicklungsstörungen der Welt ist, gibt es keine bekannte Ursache oder Heilung. </seg>
+<seg id="22"> Und ich kann mich nicht an das erste Mal erinnern, als ich Autismus begegnet bin, aber ich kann mich an keinen Tag ohne es erinnern. </seg>
+<seg id="23"> Ich war gerade drei Jahre alt, als mein Bruder geboren wurde, und ich war so aufgeregt, dass ich ein neues Wesen in meinem Leben hatte. </seg>
+<seg id="24"> Und nach ein paar Monaten wurde mir klar, dass er anders war. </seg>
+<seg id="25"> Er schrie sehr viel. </seg>
+<seg id="26"> Er wollte nicht spielen, wie es die anderen Babys taten, und tatsächlich schien er überhaupt nicht sehr interessiert an mir zu sein. </seg>
+<seg id="27"> Remi lebte und regierte in seiner eigenen Welt, mit seinen eigenen Regeln, und er fand Freude an den kleinsten Dingen, wie etwa, Autos in einer Reihe im Raum aufzustellen, die Waschmaschine anzustarren und alles zu essen, was ihm unterkam. </seg>
+<seg id="28"> Und als er älter wurde, wurde er anders und die Unterschiede wurden sichtbarer. </seg>
+<seg id="29"> Aber hinter den Wutanfällen und dem Frust und der niemals endenden Hyperaktivität war etwas wirklich Einzigartiges: eine reine und unschuldige Natur, ein Junge, der die Welt ohne Vorurteile sah, ein Mensch, der niemals gelogen hatte. </seg>
+<seg id="30"> Außergewöhnlich. </seg>
+<seg id="31"> Nun, ich kann nicht leugnen, dass es einige herausfordernde Momente in meiner Familie gab, Momente, an denen ich mir wünschte, dass sie genau wie ich wären. </seg>
+<seg id="32"> Aber ich gehe mit den Gedanken zurück zu den Dingen, die sie mich gelehrt haben, über Individualität, Kommunikation und Liebe, und ich verstehe, dass dies Sachen sind, die ich nicht gegen Normalität tauschen wollen würde. </seg>
+<seg id="33"> Normalität übersieht die Schönheit, die Unterschiede uns geben, und die Tatsache, dass wir anders sind, bedeutet nicht, dass einer von uns falsch ist. </seg>
+<seg id="34"> Es bedeutet nur, dass es eine andere Art von Richtig gibt. </seg>
+<seg id="35"> Und wenn ich nur eine Sache zu Remi sagen könnte und zu Sam und zu Ihnen, dann wäre es, dass man nicht normal sein muss. </seg>
+<seg id="36"> Man darf außergewöhnlich sein. </seg>
+<seg id="37"> Denn, autistisch oder nicht, die Unterschiede, die wir haben – Wir haben ein Geschenk! Jeder von uns hat ein Geschenk in sich. Und in aller Ehrlichkeit, das Streben nach Normalität ist das ultimative Opfern von Potenzial. </seg>
+<seg id="38"> Die Chance auf Größe, Fortschritt und Wandel stirbt in dem Moment, in dem wir versuchen, wie jemand anderes zu sein. </seg>
+<seg id="39"> Bitte – sagen Sie mir nicht, dass ich normal bin. </seg>
+<seg id="40"> Danke. </seg>
+</doc>
+<doc docid="1520" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/ramesh_raskar_a_camera_that_takes_one_trillion_frames_per_second.html</url>
+<description>Ramesh Raskar stellt die Femto-Fotografie vor, eine neue Art der Bildverarbeitung, die so schnell ist, dass sie die Welt mit einer Billion Bildern pro Sekunde zeigt, so detailliert, dass sie sogar Licht in Bewegung zeigt. Diese Technologie kann eines Tages eventuell für den Bau von Kameras genutzt werden, die um Ecken schauen können oder ohne zu röntgen in den Körper hinein.</description>
+<keywords>innovation,invention,photography,technology</keywords>
+<talkid>1520</talkid>
+<title>Ramesh Raskar: Bildverarbeitung mit einer Billion Bildern pro Sekunde</title>
+<seg id="1"> Doc Edgerton hat uns mit Ehrfurcht und Neugier erfüllt, mit diesem Foto auf dem ein Projektil einen Apfel durchbohrt und mit einer Belichtungszeit von nur einer millionstel Sekunde. </seg>
+<seg id="2"> Aber jetzt, 50 Jahre später, sind wir eine Million Mal schneller und sehen die Welt nicht mit einer Million oder einer Milliarde, sondern einer Billion Bildern pro Sekunde. </seg>
+<seg id="3"> Ich stelle Ihnen eine neue Art der Fotografie vor, die Femto-Fotografie, eine neue Abbildungstechnik, die so schnell ist, dass sie Zeitlupenaufnahmen von Licht in Bewegung erstellen kann. </seg>
+<seg id="4"> Und damit können wir Kameras bauen, die abseits unseres Sichtbereichs um Ecken schauen oder ohne ein Röntgenbild in unseren Körper hineinsehen können und wirklich in Frage stellen, was wir mit "Kamera" meinen. </seg>
+<seg id="5"> Wenn ich jetzt einen Laserpointer nehme und ihn in einer billionstel Sekunde an- und ausschalte – das sind mehrere Femtosekunden –, erschaffe ich ein Paket von Photonen, das kaum einen Millimeter breit ist und dieses Photonen-Paket, dieses Projektil, wird sich in Lichtgeschwindigkeit fortbewegen, und – wie gesagt – eine Million Mal schneller als ein normales Projektil. </seg>
+<seg id="6"> Also, wenn Sie dieses Projektil, dieses Photonen-Paket nehmen und es in diese Flasche hinein schießen, wie werden diese Photonen in der Flasche brechen? </seg>
+<seg id="7"> Wie sieht Licht in Zeitlupe aus? </seg>
+<seg id="8"> Also, dieses ganze Ereignis – </seg>
+<seg id="9"> Also, denken Sie daran, das ganze Ereignis dauert tatsächlich weniger als eine Nanosekunde – so lang braucht das Licht, um diese Strecke zurückzulegen –, aber ich verlangsame dieses Video um den Faktor 10 Milliarden, damit Sie das Licht in Bewegung sehen können. </seg>
+<seg id="10"> Nein, Coca-Cola hat diese Forschung nicht finanziert. </seg>
+<seg id="11"> Also, in diesem Film passiert sehr viel, also lassen Sie mich das analysieren und Ihnen zeigen was passiert. </seg>
+<seg id="12"> Der Puls, unser Projektil, tritt in die Flasche mit einem Photonenpaket ein, das beginnt, sich hindurch zu bewegen und das schließlich innen bricht. </seg>
+<seg id="13"> Ein Teil des Lichts dringt nach außen auf den Tisch und Sie sehen diese Ausbreitung der Wellen. </seg>
+<seg id="14"> Viele der Photonen erreichen letztendlich den Verschluss der Flasche und explodieren in verschiedene Richtungen. </seg>
+<seg id="15"> Wie Sie sehen können, ist dort eine Luftblase, die in der Flasche herumspringt. </seg>
+<seg id="16"> Währenddessen breiten sich die Wellen auf dem Tisch aus und wegen der Reflexionen von oben sehen Sie, dass die Reflexionen am Ende der Flasche nach einigen Bildern fokussiert sind. </seg>
+<seg id="17"> Wenn Sie jetzt ein übliches Projektil nehmen und es dieselbe Strecke zurücklegen lassen und das Video wieder um den Faktor 10 Milliarden verlangsamen, wissen Sie, wie lange Sie dann hier sitzen müssen, um den Film zu sehen? </seg>
+<seg id="18"> Einen Tag, eine Woche? Nein, ein ganzes Jahr. </seg>
+<seg id="19"> Das wäre ein sehr langweiliger Film – – von einem langsamen, normalen Projektil in Bewegung. </seg>
+<seg id="20"> Und wie sieht es mit etwas Stillleben-Fotografie aus? </seg>
+<seg id="21"> Sie können wieder sehen, wie diese Wellen den Tisch, die Tomate und die Wand im Hintergrund überspülen. </seg>
+<seg id="22"> Es ist, als wenn man einen Stein in einen Teich wirft. </seg>
+<seg id="23"> Mir erschien es so, als würde die Natur so ein Foto malen, jeweils ein Femto-Bild, aber natürlich sieht unser Auge ein zusammengesetztes Einzelbild. </seg>
+<seg id="24"> Aber wenn Sie sich diese Tomate noch einmal ansehen, dann werden Sie erkennen, dass, wenn das Licht die Tomate überspült, diese weiter erleuchtet bleibt. Sie wird nicht dunkel. </seg>
+<seg id="25"> Warum ist das so? Weil die Tomate reif ist und das Licht in ihr umher springt und nach einigen billionstel Sekunden wieder herauskommt. </seg>
+<seg id="26"> Also, in Zukunft, wenn diese Femto-Kamera in Ihrem Kamerahandy eingebaut ist, könnte es möglich sein, dass Sie in einen Supermarkt gehen und feststellen können, ob eine Frucht reif ist, ohne sie überhaupt zu berühren. </seg>
+<seg id="27"> Wie also hat mein Team am MIT diese Kamera gebaut? </seg>
+<seg id="28"> Also, als Fotografen wissen Sie, wenn Sie ein Foto mit kurzer Belichtungszeit machen, haben Sie sehr wenig Licht, aber wir belichten eine Milliarde Mal schneller als Ihre kürzeste Belichtungszeit, also bekommen Sie so gut wie gar kein Licht. </seg>
+<seg id="29"> Also wir machen Folgendes: Wir schicken dieses Projektil, dieses Photonen-Paket, millionfach und zeichnen das wieder und wieder mit sehr cleverer Synchronisation auf und diese Gigabytes von Daten kombinieren wir rechnerisch, um diese Femto-Videos zu erstellen, die ich Ihnen gezeigt habe. </seg>
+<seg id="30"> Und wir können all diese Rohdaten nehmen und damit sehr interessante Dinge machen. </seg>
+<seg id="31"> Also, Superman kann fliegen. </seg>
+<seg id="32"> Andere Helden können sich unsichtbar machen, aber wie wäre es mit einer neuen Superkraft für einen künftigen Superhelden: um Ecken sehen können? </seg>
+<seg id="33"> Die Idee ist, dass wir etwas Licht auf die Tür strahlen. </seg>
+<seg id="34"> Es wird abprallen, in den Raum gehen, ein Teil davon wird wieder zurück auf die Tür reflektiert und schließlich zurück zur Kamera und wir könnten diese mehrfachen Abpraller des Lichtes ausnutzen. </seg>
+<seg id="35"> Und das ist keine Science-Fiction. Wir haben es sogar schon gebaut. </seg>
+<seg id="36"> Links sehen Sie unsere Femto-Kamera. </seg>
+<seg id="37"> Hinter der Wand ist eine Puppe versteckt und wir werden das Licht an der Tür abprallen lassen. </seg>
+<seg id="38"> Nachdem unsere Abhandlung in der "Nature Communications" veröffentlicht worden war, wurde es von Nature.com hervorgehoben und sie haben diese Animation erstellt. </seg>
+<seg id="39"> Wir werden diese Licht-Projektile abfeuern und sie werden auf diese Wand trefffen und dieses Photonen-Paket wird in alle Richtungen gestreut und einige der Photonen werden unsere versteckte Puppe erreichen, die wiederum das Licht brechen lassen wird, und dann wird wiederum die Tür einen Teil des gebrochenen Lichts reflektieren und ein winziger Anteil der Photonen wird dann wieder zurück zur Kamera kommen, aber am interessantesten ist, sie werden alle zu einem leicht unterschiedlichen Zeitpunkt ankommen. </seg>
+<seg id="40"> Und weil wir eine Kamera haben, die so schnell ist – unsere Femto-Kamera hat einige einzigartige Fähigkeiten. </seg>
+<seg id="41"> Sie hat eine sehr gute Zeitauflösung und sie kann die Welt in Lichtgeschwindigkeit ansehen. </seg>
+<seg id="42"> Und dadurch wissen wir natürlich die Entfernung zur Tür, aber auch die zu den versteckten Objekten, aber wir wissen nicht, welcher Punkt zu welcher Entfernung gehört. </seg>
+<seg id="43"> Indem wir einen Laser aufleuchten lassen, können wir ein Roh-Bild aufnehmen, das – wie sie auf dem Bildschirm sehen – nicht wirklich Sinn macht, aber wenn wir dann viele dieser Bilder aufnehmen, Dutzende dieser Bilder, und sie zusammenfügen und versuchen, die verschiedenen Licht-Abpraller zu analysieren, können wir dann das versteckte Objekt sehen? </seg>
+<seg id="44"> Können wir es in 3D sehen? </seg>
+<seg id="45"> Also das hier ist unsere Rekonstruktion. </seg>
+<seg id="46"> Wir haben noch einiges zu tun, bevor wir das vom Labor in die Praxis umsetzen können, wir könnten Autos bauen, die Kollisionen vermeiden und erkennen, was hinter der Kurve ist, oder wir können damit in gefährlichen Lagen nach Überlebenden suchen, indem wir uns Licht ansehen, das durch offene Fenster reflektiert wird, oder wir können Endoskope bauen, die tief in den Körper um Okkluder herum sehen und auch Kardioskope. </seg>
+<seg id="47"> Aber wegen des Blutes und Gewebes ist das natürlich sehr herausfordernd, weshalb das wirklich ein Weckruf für Wissenschaftler ist, jetzt über Femto-Fotografie nachzudenken, da ein neues bildgebendes Verfahren tatsächlich die nächste Generation von medizinischen Abbildungsproblemen lösen könnte. </seg>
+<seg id="48"> Also, wie bei Doc Edgerton, selbst ein Wissenschaftler, ist die Wissenschaft eine Kunst geworden, eine Kunst der ultra-schnellen Fotografie, und mir wurde klar, dass all diese Gigabytes von Daten, die wir jedes Mal sammeln, nicht nur der wissenschaftlichen Bildverarbeitung nutzten. Wir können auch eine neue Form der Computer-Fotografie schaffen, mit Zeitraffer und Farbkodierungen, und wir können uns diese Wellen anschauen. Vergessen Sie nicht, die Zeit zwischen jeder dieser Welle ist nur ein paar trillionstel Sekunden. </seg>
+<seg id="49"> Aber es passiert hier auch etwas Lustiges. </seg>
+<seg id="50"> Wenn Sie sich diese Wellen unter dem Flaschenverschluss anschauen, sehen Sie, dass sich die Wellen von uns weg bewegen. </seg>
+<seg id="51"> Die Wellen sollten sich zu uns hin bewegen. </seg>
+<seg id="52"> Was passiert hier? </seg>
+<seg id="53"> Es stellte sich heraus, dass wir, weil wir fast in Lichtgeschwindigkeit aufnehmen, seltsame Effekte haben und Einstein hätte dieses Bild unglaublich gerne gesehen. </seg>
+<seg id="54"> Die Reihenfolge, in der Ereignisse in der Welt passieren, erscheinen in der Kamera in umgekehrter Reihenfolge, also, indem man die entsprechende Beziehung von Raum und Zeit anwendet, können wir diese Verzerrung korrigieren. </seg>
+<seg id="55"> Also egal, ob für Fotografie um Ecken herum oder das Erschaffen eines neuen bildgebenden Verfahrens für die Medizin oder neue Darstellungsformen, seit unserer Erfindung haben wir alle Daten und Details auf unserer Website offen zugänglich gemacht und hoffen, dass die "Selbermacher", die Kreativen und die Forschungsgemeinde uns zeigen, dass wir aufhören sollten, uns auf die Megapixel-Zahlen in Kameras zu fixieren – – und anfangen sollten, uns auf die nächste Dimension der Darstellung zu konzentrieren. </seg>
+<seg id="56"> Es geht um die Zeit. Danke schön. </seg>
+</doc>
+<doc docid="1553" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/candy_chang_before_i_die_i_want_to.html</url>
+<description>In ihrer Nachbarschaft in New Orleans hat die Künstlerin und TED Fellow Candy Chang ein verlassenes Haus in eine riesige Tafel verwandelt, auf der die Menschne die Frage: "Bevor ich sterbe, möchte ich..." vervollständigen können. Die Antworten ihrer Nachbarn -- überraschend, ergreifend, lustig -- wurden zu einem unerwarteten Spiegel der Gemeinschaft. </description>
+<keywords>TED Fellows,arts,cities,community</keywords>
+<talkid>1553</talkid>
+<title>Candy Chang: Bevor ich sterbe, möchte ich...</title>
+<seg id="1"> Es gibt viele Möglichkeiten, wie unsere Mitmenschen unser Leben verbessern können. </seg>
+<seg id="2"> Wir treffen nicht jeden Nachbarn auf der Straße, sodass viele Weisheiten nicht weitergegeben werden. Doch wir nutzen dieselben öffentlichen Plätze. </seg>
+<seg id="3"> In den letzten Jahren habe ich versucht mehr mit meinen Nachbarn zu teilen und dabei Dinge wie Aufkleber, Schablonen und Kreide zu verwenden. </seg>
+<seg id="4"> Die Projekte entstanden aus meinen Fragen, wie, wie viel Miete zahlen meine Nachbarn? </seg>
+<seg id="5"> Wie können wir mehr Dinge leihen, ohne uns gegenseitig zu stören? </seg>
+<seg id="6"> Wie können wir unsere Erinnerungen an die verlassenen Gebäude teilen und die Landschaften besser verstehen? </seg>
+<seg id="7"> Und wie können wir unsere Hoffnungen für leerstehende Häuser teilen, sodass unsere Gemeinden unsere Bedürfnisse und Träume widerspiegeln? </seg>
+<seg id="8"> Ich lebe in New Orleans und ich liebe New Orleans. </seg>
+<seg id="9"> Meine Seele wird von den riesigen Eichen beruhigt, die seit hunderten Jahren Liebenden, Betrunkenen und Träumern Schatten spenden. Ich vertraue einer Stadt, in der es immer Musik gibt. </seg>
+<seg id="10"> Ich glaube, jedes Mal wenn jemand niest, gibt es in New Orleans eine Parade. </seg>
+<seg id="11"> In dieser Stadt stehen einige der schönsten Gebäude der Welt, doch sie ist auch die Stadt mit den meisten verlassenen Grundstücken in Amerika. </seg>
+<seg id="12"> Ich wohne in der Nähe dieses Hauses und habe überlegt, wie ich es verschönern kann. Dabei dachte ich auch an etwas, das mein Leben für immer verändert hat. </seg>
+<seg id="13"> 2009 verlor ich jemanden, den ich sehr liebte. </seg>
+<seg id="14"> Ihr Name war Joan und sie war wie eine Mutter für mich. Ihr Tod kam plötzlich und unerwartet. </seg>
+<seg id="15"> Ich habe viel über den Tod nachgedacht, und ich spürte eine große Dankbarkeit für mein Leben, und es brachte mir Klarheit über die Dinge, die mir jetzt im Leben wichtig sind. </seg>
+<seg id="16"> Aber es fällt mir schwer, diese Sichtweise jeden Tag beizubehalten. </seg>
+<seg id="17"> Es ist leicht, sich im Alltag zu verlieren und zu vergessen, was wirklich wichtig ist. </seg>
+<seg id="18"> Mit der Hilfe von alten und neuen Freunden verwandelte ich eine Seite des verlassenen Hauses in eine riesige Tafel und schrieb mit einer Schablone den Lücken-Satz: "Bevor ich sterbe, möchte ich..." Jeder, der vorbeikommt, kann ein Stück Kreide nehmen, über sein Leben nachdenken und seine Hoffnungen an diesem öffentlichen Ort teilen. </seg>
+<seg id="19"> Ich war nicht sicher, was ich bei dem Experiment erwarten konnte, doch schon am nächsten Tag war die Wand komplett ausgefüllt und sie wuchs immer weiter. </seg>
+<seg id="20"> Ich möchte einige Sätze mit euch teilen, die von den Menschen an die Wand geschrieben wurden. </seg>
+<seg id="21"> "Bevor ich sterbe, möchte ich wegen Piraterie angeklagt werden." </seg>
+<seg id="22"> "Bevor ich sterbe, möchte ich breitbeinig über der Internationalen Datumsgrenze stehen." </seg>
+<seg id="23"> "Bevor ich sterbe, möchte ich für Millionen Menschen singen." </seg>
+<seg id="24"> "Bevor ich sterbe, möchte ich einen Baum pflanzen." </seg>
+<seg id="25"> "Bevor ich sterbe, möchte ich "netzunabhängig" leben." </seg>
+<seg id="26"> "Bevor ich sterbe, möchte ich sie noch einmal in meinen Armen halten." </seg>
+<seg id="27"> "Bevor ich sterbe, möchte ich jemandes Kavallerie sein." </seg>
+<seg id="28"> "Bevor ich sterbe, möchte ich ganz ich selbst sein." </seg>
+<seg id="29"> Dieser vernachlässigte Ort wurde zu einem sinnvollen Ort, und die Hoffnungen und Träume der Menschen brachten mich zum Lachen, zum Weinen und trösteten mich während der harten Zeiten. </seg>
+<seg id="30"> Es geht darum zu wissen, dass man nicht allein ist. </seg>
+<seg id="31"> Es geht darum, unsere Nachbarn zu verstehen und zwar auf eine neue und aufschlussreiche Art und Weise. </seg>
+<seg id="32"> Es geht darum, Platz für Besinnung und zum Nachdenken zu schaffen und sich zu erinnern, was uns am wichtigsten ist, während wir wachsen und uns verändern. </seg>
+<seg id="33"> Ich habe dies letztes Jahr gemacht und habe hunderte Nachrichten von leidenschaftlichen Menschen erhalten, die mit ihrer Gemeinde eine Wand bauen wollten. Also haben meine Kollegen und ich einen Baukasten erstellt und jetzt wurden weltweit in Ländern wie Kasachstan, Südafrika, Australien, Argentinien und anderen Wände errichtet. </seg>
+<seg id="34"> Wir haben gezeigt, wie viel Macht unsere öffentlichen Plätze haben, wenn wir die Gelegenheit haben, unsere Stimmen zu erheben und mehr mit anderen zu teilen. </seg>
+<seg id="35"> Zwei der wertvollsten Dinge, die wir haben, sind Zeit und die Beziehungen zu anderen Menschen. </seg>
+<seg id="36"> In einer Welt mit zunehmenden Ablenkungen ist es wichtiger als je zuvor, die Dinge mit dem richtigen Blick zu betrachten und daran zu denken, dass das Leben kurz und empfindlich ist. </seg>
+<seg id="37"> Wir werden oft davon abgehalten, über den Tod zu sprechen oder auch nur daran zu denken, aber ich habe erkannt, dass die Vorbereitung auf den Tod eine der Sachen ist, die uns am meisten stärkt. </seg>
+<seg id="38"> Der Gedanke an den Tod verdeutlicht uns das Leben. </seg>
+<seg id="39"> Unsere gemeinsamen Plätze zeigen am besten, was uns als Individuen und als Gemeinde wichtig ist. Und mit mehr Möglichkeiten unsere Hoffnungen, Ängste und Geschichten zu teilen, können die Menschen um uns herum uns nicht nur helfen, bessere Orte zu schaffen, sie können uns helfen, besser zu leben. </seg>
+<seg id="40"> Danke. </seg>
+<seg id="41"> Danke. </seg>
+</doc>
+<doc docid="1534" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/max_little_a_test_for_parkinson_s_with_a_phone_call.html</url>
+<description>Die Parkinsonsche Krankheit betrifft weltweit 6,3 Millionen Menschen. Sie verursacht Schwäche und Tremore. Es gibt jedoch kein objektives Mittel, mit dem man von Anfang an auf die Krankheit testen kann. TED Fellow Max Little, in der angewandten Mathematik tätig, testet ein einfaches, günstiges Instrument, das die Krankheit mit 99-prozentiger Genauigkeit während eines 30-Sekunden-Anrufs feststellen kann.</description>
+<keywords>disease,global issues,innovation,math,medicine,science,technology</keywords>
+<talkid>1534</talkid>
+<title> Ein Parkinson-Test über das Telefon</title>
+<seg id="1"> Also, ich beschäftige mich mit angewandter Mathematik. Ein besonderes Problem für jeden, der sich mit angewandter Mathematik beschäftigt, ist, dass wir wie Unternehmensberater sind. </seg>
+<seg id="2"> Niemand weiß, was wir eigentlich machen. </seg>
+<seg id="3"> Deshalb werde ich heute den Versuch wagen, Ihnen zu erklären, was ich mache. </seg>
+<seg id="4"> Tanzen ist eine der menschlichsten Aktivitäten. </seg>
+<seg id="5"> Wir sind entzückt beim Anblick von meisterhaften Ballett- und Stepptänzern, wie Sie gleich sehen werden. </seg>
+<seg id="6"> Zum Ballett gehören ein außergewöhnlich großes Maß an Kenntnissen und Fähigkeiten, und möglicherweise eine grundsätzliche Eignung, die eine genetische Komponente haben könnte. </seg>
+<seg id="7"> Traurigerweise zerstören neurologische Störungen wie Parkinson langsam diese außerordentliche Fähigkeit. Das macht sie auch bei meinem Bekannten Jan Stripling, der zu seiner Zeit ein Ballettvirtuose war. </seg>
+<seg id="8"> Über die Jahre hat man sehr viele Fortschritte in der Behandlung gemacht. </seg>
+<seg id="9"> Trotzdem gibt es weltweit 6,3 Millionen Menschen, die an dieser Krankheit leiden, und sie müssen mit den unheilbaren Symptomen wie Schwäche, Tremor, Steifheit und anderen mehr leben, die diese Krankheit verursacht. Deshalb brauchen wir objektive Mittel, um die Krankheit zu entdecken, bevor es zu spät ist. </seg>
+<seg id="10"> Wir müssen das Fortschreiten objektiv messen können, und letztlich ist die einzige Möglichkeit, wirklich zu wissen, ob es Heilung gibt, wenn wir ein objektives Maß haben, das diese Frage beantworten kann. </seg>
+<seg id="11"> Ärgerlich ist, dass es für Parkinson und andere Bewegungsstörungen keine Biomarker gibt, man also keine einfache Blutanalyse durchführen kann. Das Beste was es gibt ist dieser 20-Minuten-Test beim Neurologen. </seg>
+<seg id="12"> Man muss ihn in der Klinik durchführen. Es ist sehr teuer, und das bedeutet, außerhalb klinischer Studien wird das nie gemacht. Noch nie. </seg>
+<seg id="13"> Aber was wäre, wenn Patienten diesen Test zuhause machen könnten? </seg>
+<seg id="14"> Das würde eine beschwerliche Tour ins Krankenhaus ersparen. Was wäre, wenn Patienten diesen Test selbst machen könnten? </seg>
+<seg id="15"> Es wäre kein teures Krankenhauspersonal nötig. </seg>
+<seg id="16"> Es kostet übrigens 300$, sich in der neurologischen Abteilung untersuchen zu lassen. </seg>
+<seg id="17"> Daher möchte ich Ihnen eine unkonventionelle Methode vorschlagen, mit der wir versuchen, das zu erreichen. Denn wir alle sind, in gewissem Sinne zumindest, Virtuosen wie mein Bekannter Jan Stripling. </seg>
+<seg id="18"> Hier sehen Sie ein Video der vibrierenden Stimmlippen. </seg>
+<seg id="19"> Das passiert im gesunden Zustand, wenn jemand Sprechlaute erzeugt. Wir können uns als stimmliche Balletttänzer betrachten, weil wir all diese Stimmorgane koordinieren müssen, wenn wir Laute erzeugen, und wir haben alle die Gene dafür. FoxP2, beispielsweise. </seg>
+<seg id="20"> Und wie Ballet erfordert es enorm viel Übung. </seg>
+<seg id="21"> Denken Sie daran, wie lange ein Kind braucht, bis es sprechen lernt. </seg>
+<seg id="22"> Durch den Laut können wir die Position der vibrierenden Stimmlippen bestimmen. Und so wie die Gliedmaßen sind auch die Stimmorgane von Parkinson betroffen. </seg>
+<seg id="23"> Auf der unteren Aufzeichnung können Sie ein Beispiel für unregelmäßige Stimmlippenbewebungen erkennen. </seg>
+<seg id="24"> Wir sehen immer dieselben Symptome. </seg>
+<seg id="25"> Stimmtremor, Schwäche, Steifheit. </seg>
+<seg id="26"> Die Sprache wird mit der Zeit sogar leiser und gehauchter und das ist ein Beispielsymptom dafür. </seg>
+<seg id="27"> Diese Auswirkungen auf die Stimme können minimal sein, manchmal, aber mit digitalen Mikrofonen und Präzisionsstimmanalyse-Software, kombiniert mit neuestem maschinellen Lernen, das mittlerweile sehr fortgeschritten ist, können wir jetzt genau feststellen, wo jemand liegt, in einer Spanne zwischen Krankheit und Gesundheit, nur aufgrund der Stimmlaute. </seg>
+<seg id="28"> Wie können sich diese Tests mit klinischen messen? Nun ja, sie sind beide nicht-invasiv. Der Test beim Neurologen </seg>
+<seg id="29"> ebenso wenig. Die Infrastruktur ist schon da. </seg>
+<seg id="30"> Man muss keine neuen Kliniken dafür bauen. </seg>
+<seg id="31"> Und beide sind exakt. Dafür werden die Stimmtests nicht von Experten durchgeführt. </seg>
+<seg id="32"> Sie können also selbstständig durchgeführt werden. </seg>
+<seg id="33"> Sie sind sehr schnell, dauern maximal 30 Sekunden. </seg>
+<seg id="34"> Sie sind sehr billig und wir wissen was das heißt. </seg>
+<seg id="35"> Wenn etwas extrem billig ist, kann man es auch in großem Maß einsetzen. </seg>
+<seg id="36"> Diese erstaunlichen Ziele können wir damit jetzt erreichen: </seg>
+<seg id="37"> Wir können logistische Schwierigkeiten für Patienten reduzieren. </seg>
+<seg id="38"> Patienten müssen keine Routinekontrollen in der Klinik durchführen lassen. </seg>
+<seg id="39"> Wir können objektive Daten durch häufige Beobachtung erlangen. </seg>
+<seg id="40"> Wir können günstige Massenrekrutierung für klinische Studien durchführen und erstmals eine Untersuchung der ganzen Bevölkerung realisierbar werden lassen. </seg>
+<seg id="41"> Wir haben jetzt die Möglichkeit, erstmals nach Biomarkern für die Krankheit zu suchen, bevor es zu spät ist. </seg>
+<seg id="42"> Heute machen wir den ersten Schritt in diese Richtung, wir starten die Parkinson's-Stimme-Initiative. </seg>
+<seg id="43"> Mit Aculab und PatientsLikeMe möchten wir eine sehr hohe Zahl an Stimmen weltweit aufnehmen, um genug Ausgangsdaten zu besitzen, für das Erreichen dieser Ziele. </seg>
+<seg id="44"> Wir haben Rufnummern, die Dreiviertel einer Milliarde Menschen auf diesem Planeten zugänglich sind. </seg>
+<seg id="45"> Jeder, mit oder ohne Parkinson, kann günstig anrufen, um Aufnahmen für ein paar Cent zu hinterlassen. Ich gebe mit Freude bekannt, dass wir bereits sechs Prozent unseres Zieles in nur acht Stunden erreicht haben. </seg>
+<seg id="46"> Danke. </seg>
+<seg id="47"> Wenn du Proben von, sagen wir 10.000 Menschen nimmst, kannst du dann sagen, wer von ihnen gesund ist und wer nicht? </seg>
+<seg id="48"> Was werdet ihr mit all diesen Proben machen? </seg>
+<seg id="49"> Was passiert ist, dass der Patient während des Anrufes angeben muss, ob diese Person an Parkinson leidet oder nicht. Ok. </seg>
+<seg id="50"> Manche werden es vielleicht nicht bis zum Ende schaffen. </seg>
+<seg id="51"> Aber wir sammeln eine riesige Datenbank an, unter verschiedenen Umständen, was interessant ist. Diese Umstände sind wichtig, denn wir sind dabei, diese auszusortieren, um festzustellen, welche die eigentlichen Marker für Parkinson sind. </seg>
+<seg id="52"> Zurzeit besitzt ihr 86 Prozent Genauigkeit? </seg>
+<seg id="53"> Sie ist viel besser. </seg>
+<seg id="54"> Mein Schüler Thanasis – ich muss ihn loben, weil er so fantastische Arbeit geleistet hat – hat jetzt gezeigt, dass es auch über das Mobilfunknetzwerk funktioniert, was dieses Projekt ermöglicht, und wir sind bei 99 Prozent Genauigkeit. </seg>
+<seg id="55"> Das nenne ich eine Verbesserung. </seg>
+<seg id="56"> Das heißt, die Leute können – Die Leute können mit dem Handy anrufen und den Test machen. Leute mit Parkinson könnten anrufen, ihre Stimme aufnehmen lassen, sodass ihr Arzt den Fortschritt der Krankheit überprüfen kann. </seg>
+<seg id="57"> Genau. </seg>
+<seg id="58"> Vielen Dank. Max Little, meine Damen und Herren! </seg>
+<seg id="59"> Danke, Tom. </seg>
+</doc>
+<doc docid="1699" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/richard_turere_a_peace_treaty_with_the_lions.html</url>
+<description>Für den Stamm der Massai, dem der 13-jährige Richard Turere angehört, ist Vieh überaus wichtig. Aber immer häufiger wurde das Vieh des Stammes von Löwen angegriffen. In diesem kurzen, inspirierenden Vortrag erzählt der junger Erfinder, wie er eine solar-betriebene Lösung geschaffen hat, die die Löwen vertreibt, ohne sie zu verletzen.</description>
+<keywords>agriculture,biodiversity,technology</keywords>
+<talkid>1699</talkid>
+<title> Ein Friedensvertrag mit … Löwen.</title>
+<seg id="1"> Hier lebe ich. Ich lebe in Kenia am südlichen Rand des Nairobi-Nationalparks. </seg>
+<seg id="2"> Im Hintergrund sehen Sie die Kühe meines Vaters und das hinter den Kühen ist der Nairobi-Nationalpark. </seg>
+<seg id="3"> Der Nairobi-Nationalpark ist im Süden nur stellenweise eingezäunt. Das bedeutet, dass Wildtiere wie Zebras den Park jederzeit verlassen können. </seg>
+<seg id="4"> Die Raubtiere, die Löwen, folgen ihnen. Und dann tun sie das hier. </seg>
+<seg id="5"> Sie töten unser Vieh. </seg>
+<seg id="6"> Das ist eine unserer Kühe, die nachts getötet wurde. Ich wachte morgens auf und fand sie tot. Es war schrecklich. Es war unser einziger Bulle. </seg>
+<seg id="7"> Mein Stamm, der Stamm der Massai, glaubt, dass wir zusammen mit unseren Tieren und dem Weideland vom Himmel kamen. Deshalb bedeuten uns unsere Tiere so viel. </seg>
+<seg id="8"> Schon als Kind lernte ich Löwen zu hassen. </seg>
+<seg id="9"> Unsere Krieger heißen Morans. Sie beschützen unseren Stamm und unsere Herden. Sie sind ebenfalls aufgebracht wegen dieses Problems </seg>
+<seg id="10"> und töten die Löwen. </seg>
+<seg id="11"> Hier ist einer von sechs Löwen, die in Nairobi getötet wurden. </seg>
+<seg id="12"> Und ich glaube, darum gibt es im Nairobi- Nationalpark nur noch so wenige Löwen. </seg>
+<seg id="13"> In meinem Stamm ist ein Junge zwischen sechs und neun Jahren verantwortlich für die Kühe seines Vaters. So ging es auch mir. </seg>
+<seg id="14"> Ich musste eine Lösung finden. </seg>
+<seg id="15"> Meine erste Idee war Feuer. Löwen fürchten sich vor Feuer. </seg>
+<seg id="16"> Aber dann wurde mir klar, dass uns das nicht wirklich helfen würde, sondern den Löwen helfen, die Kühe besser zu sehen. </seg>
+<seg id="17"> Aber ich gab nicht auf. Ich machte weiter. </seg>
+<seg id="18"> Ich hatte eine zweite Idee. Ich versuchte es mit einer Vogelscheuche. </seg>
+<seg id="19"> Ich wollte, dass die Löwen dachten, ich stünde neben dem Kuhstall. </seg>
+<seg id="20"> Aber Löwen sind sehr kluge Tiere. </seg>
+<seg id="21"> Sie kommen, sehen die Vogelscheuche und gehen wieder. Beim nächsten Mal aber kommen sie und sagen sich, das Ding bewegt sich ja gar nicht, das ist ja immer noch hier. </seg>
+<seg id="22"> Und sie greifen an und töten unser Vieh. </seg>
+<seg id="23"> Eines Nachts bewachte ich den Stall. Ich lief mit einer Fackel in der Hand um ihn herum und diesmal griffen die Löwen nicht an. </seg>
+<seg id="24"> Löwen fürchten sich vor Licht, das sich bewegt. </seg>
+<seg id="25"> Ich hatte eine Idee. </seg>
+<seg id="26"> Schon als kleiner Junge arbeitete ich den ganzen Tag in meinem Zimmer und nahm einmal sogar das neue Radio meiner Mutter auseinander. An dem Tag brachte sie mich fast um. Aber ich hatte viel über Elektronik gelernt. </seg>
+<seg id="27"> Ich nahm eine alte Autobatterie und einen Richtungsanzeiger aus einem Motorrad. Der zeigt an, ob man rechts oder links abbiegen will. Er blinkt. </seg>
+<seg id="28"> Und ich besorgte mir einen Schalter, um die Lichter ein- und auszuschalten. </seg>
+<seg id="29"> Das hier ist eine kleine Birne aus einer kaputten Taschenlampe. </seg>
+<seg id="30"> Und dann baute ich alles zusammen. </seg>
+<seg id="31"> Das Solarpanel lädt die Batterie, die Batterie liefert Strom an den Richtungsanzeiger. Ich nenne es einen Transformator. </seg>
+<seg id="32"> Und der Richtungsanzeiger blinkt. </seg>
+<seg id="33"> Sie sehen, dass die Birnen nach außen zeigen, denn von dort kommen die Löwen. </seg>
+<seg id="34"> Und so sieht das aus für die Löwen, wenn sie kommen. </seg>
+<seg id="35"> Die Lichter blinken und die Löwen glauben, dass ich um den Stall gehe. Dabei war ich die ganze Zeit im Bett. </seg>
+<seg id="36"> Danke. </seg>
+<seg id="37"> Ich habe das so bei uns zu Hause installiert und seitdem hatten wir keine Probleme mehr mit Löwen. </seg>
+<seg id="38"> Und dann hörten unsere Nachbarn davon. </seg>
+<seg id="39"> Einer von ihnen war diese Großmutter. </seg>
+<seg id="40"> Sie hatte viele ihrer Tiere an Löwen verloren und sie fragte mich, ob ich ihr die Lichter installieren konnte. </seg>
+<seg id="41"> Und ich sagte: "Ja." </seg>
+<seg id="42"> ich installierte die Lichter. Sie können die Löwenlichter im Hintergrund sehen. </seg>
+<seg id="43"> Seitdem habe ich sieben Häuser in der Nachbarschaft mit den Lichtern versorgt und sie funktionierenen wirklich gut. </seg>
+<seg id="44"> Meine Idee wird jetzt in ganz Kenia verwendet, auch für andere Raubtiere wie Hyänen oder Leoparden. Die Lichter dienen auch dazu, Elefanten von Farmen fern zu halten. </seg>
+<seg id="45"> Meine Erfindung verhalf mir zu einem ein Stipendium an einer der besten Schulen in Kenia, Brookhouse International School, und ich bin wirklich aufgeregt. </seg>
+<seg id="46"> Meine neue Schule engagiert sich und hilft durch Spendenaktionen und Aufklärung. </seg>
+<seg id="47"> Ich habe sogar meine Freunde mit nach Hause gebracht und gemeinsam installieren wir die Lichter dort, wo es noch keine gibt, und ich zeige den Menschen, wie man sie benutzt. </seg>
+<seg id="48"> Vor einem Jahr ich nur ein Junge aus der Savanne, der seines Vaters Kühe hütete. Ich sah Flugzeuge über mir und sagte mir: "Eines Tages werde ich in einem sitzen!" </seg>
+<seg id="49"> Und hier stehe ich nun. </seg>
+<seg id="50"> Ich durfte mit einem Flugzeug anreisen, für meinen ersten TEDTalk. </seg>
+<seg id="51"> Wenn ich groß bin, möchte ich Flugzeugingenieur und Pilot werden. Das ist mein großer Traum. </seg>
+<seg id="52"> Früher habe ich Löwen gehasst. Aber durch meine Erfindung kann ich die Kühe meines Vaters retten und die Löwen dazu. Wir können gemeinsam, Seite an Seite, mit den Löwen leben, ohne Streit. </seg>
+<seg id="53"> Ashê Olên. In meiner Sprache bedeutet das: Ich danke Ihnen sehr. </seg>
+<seg id="54"> Du weißt ja gar nicht, wie spannend es ist, eine Geschichte wie deine zu hören. </seg>
+<seg id="55"> Also du hast jetzt dieses Stipendium. Ja. </seg>
+<seg id="56"> Du arbeitest an anderen elektrischen Erfindungen. </seg>
+<seg id="57"> Was ist das nächste auf der Liste? </seg>
+<seg id="58"> Meine nächste Erfindung, nun, ich arbeite an einem elektrischen Zaun. Einem Elektrozaun? </seg>
+<seg id="59"> Ja, ich weiß, elektrische Zäune sind schon längst erfunden, aber ich will meinen eigenen haben. </seg>
+<seg id="60"> Du hast es bereits einmal versucht, nicht wahr – Ja, ich hab's schon mal versucht, aber den Versuch wieder aufgegeben, weil ich ... einen Schlag bekam. </seg>
+<seg id="61"> Aller Anfang ist schwer. Richard Turere, du bist etwas ganz Besonderes. </seg>
+<seg id="62"> Wir werden dich bei jedem Schritt deines Weges anfeuern, mein Freund. </seg>
+<seg id="63"> Vielen Dank. Vielen Dank. </seg>
+</doc>
+<doc docid="1634" genre="lectures">
+<url>http://www.ted.com/talks/lang/de/steven_addis_a_father_daughter_bond_one_photo_at_a_time.html</url>
+<description>Vor 15 Jahren stand Steve Addis an einer Straßenecke in New York mit seiner einjährigen Tochter auf dem Arm; seine Frau machte ein Foto. Dieses Bild inspirierte ein jährliches Vater-Tochter-Ritual bei dem Addis und seine Tochter an der selben Straßenecke das gleiche Bild machen, Jahr für Jahr. Addis teilt mit uns 15 Bilder von diesem Ritual und erkundet, warum dieses kleine, wiederholte Ritual so viel bedeutet.</description>
+<keywords>children,parenting,photography</keywords>
+<talkid>1634</talkid>
+<title>Steven Addis: Eine Vater-Tochter-Bindung, Bild für Bild</title>
+<seg id="1"> Seit ich alt genug bin, eine Kamera in der Hand zu halten, ist Fotografie meine Leidenschaft. Aber heute möchte ich mit Ihnen 15 meiner Lieblingsbilder teilen; und kein einziges davon habe ich gemacht. </seg>
+<seg id="2"> Es gab keinen Art Director, keine Stilisten, keine Chance ein Bild noch mal zu schießen. Nicht einmal die Beleuchtung wurde berücksichtigt. </seg>
+<seg id="3"> Um ehrlich zu sein, die meisten wurden von zufällig vorbeikommenden Touristen geschossen. </seg>
+<seg id="4"> Meine Geschichte beginnt als ich für einen Vortrag in New York war und meine Frau dieses Bild machte, auf dem ich meine Tochter an ihrem ersten Geburtstag auf meinem Arm halte. Wir waren an der Ecke von 57ster und 5ter. </seg>
+<seg id="5"> Genau ein Jahr später waren wir wieder in New York und so entschlossen wir uns das gleiche Bild noch einmal zu schießen. </seg>
+<seg id="6"> Nun ja, Sie können sehen, worauf das hinaus läuft... </seg>
+<seg id="7"> Als sich der dritte Geburtstag meiner Tochter näherte sagte meine Frau: "Hey, warum bringst du Sabina nicht nach New York und machst es eine Vater-Tochter-Reise, um das Ritual fort zu führen?" </seg>
+<seg id="8"> Damals fingen wir an, vorbeilaufende Touristen zu bitten, ein Bild von uns zu machen. </seg>
+<seg id="9"> Wissen Sie, es ist bemerkenswert, wie universell die Geste ist wenn man einem völlig Fremden seine Kamera reicht. </seg>
+<seg id="10"> Niemand hat je nein gesagt und zum Glück ist auch noch nie jemand mit unserer Kamera getürmt. </seg>
+<seg id="11"> Damals wussten wir noch nicht, wie sehr diese Reisen unser Leben verändern würden. </seg>
+<seg id="12"> Diese Reise ist uns sehr heilig geworden. </seg>
+<seg id="13"> Dieses hier wurde nur Wochen nach dem 11. September aufgenommen und ich musste erklären, was an dem Tag passiert war, so dass eine Fünfjährige es verstehen kann. </seg>
+<seg id="14"> Diese Bilder sind viel mehr als nur ein festgehaltener Moment, oder eine bestimmte Reise. </seg>
+<seg id="15"> Sie sind für uns auch eine Möglichkeit für eine Woche im Oktober, die Zeit anzuhalten und über unsere Zeit und wie wir uns von Jahr zu Jahr verändern, nicht nur physisch sondern in allem, zu reflektieren. </seg>
+<seg id="16"> Denn obwohl wir immer das gleiche Bild machen, ändert sich unsere Perspektive von Mal zu Mal. Während sie immer neue Meilensteine erreicht, darf ich das Leben mit ihren Augen sehen, wie sie mit allem umgeht und wie sie es sieht. </seg>
+<seg id="17"> Diese sehr intensive Zeit, die wir miteinander verbringen ist etwas, das wir schätzen und jedes Jahr freudig erwarten. </seg>
+<seg id="18"> Letztens, während einer unserer Reisen, gingen wir spazieren und plötzlich blieb sie wie angewurzelt stehen, sie zeigt auf eine rote Markise an einem Puppenladen welchen sie als kleines Kind, bei früheren Reisen lieben gelernt hatte. </seg>
+<seg id="19"> Und sie erzählte mir von ihren Gefühlen, die sie als Fünfjährige an genau dieser Stelle empfunden hatte. </seg>
+<seg id="20"> Sie sagte, dass sie sich daran erinnert wie ihr das Herz aus der Brust sprang, als sie vor neun Jahren den Laden zum ersten Mal sah. </seg>
+<seg id="21"> Und nun schaut sie in New York nach Hochschulen, weil sie unbedingt in New York studieren möchte. </seg>
+<seg id="22"> Und mir wurde schlagartig klar: Das Wichtigste, was wir alle erschaffen, sind Erinnerungen. </seg>
+<seg id="23"> Und daher möchte ich mit Ihnen die Idee teilen, eine aktive Rolle im bewussten Erschaffen von Erinnerungen zu übernehmen. </seg>
+<seg id="24"> Ich weiß nicht, wie es bei Ihnen aussieht, aber abgesehen von diesen 15 Bildern, bin ich auf kaum einem Familienfoto. </seg>
+<seg id="25"> Ich bin immer der, der das Bild macht. </seg>
+<seg id="26"> Ich möchte jeden von Ihnen heute dazu anregen, mit in das Bild zu kommen und zögern Sie nicht jemanden zu fragen: "Würden Sie ein Bild von uns machen?" </seg>
+<seg id="27"> Vielen Dank. </seg>
+</doc>
+</refset>
+</mteval>

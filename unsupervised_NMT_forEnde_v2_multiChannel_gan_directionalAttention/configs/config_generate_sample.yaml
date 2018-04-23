@@ -1,0 +1,46 @@
+---
+src_vocab: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT_generate_samples/vocab.bpe.32000'
+dst_vocab: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT_generate_samples/vocab.bpe.32000'
+src_vocab_size_a: 32000
+dst_vocab_size_a: 32000
+src_vocab_size_b: 32000
+dst_vocab_size_b: 32000
+hidden_units: 512
+scale_embedding: True
+attention_dropout_rate: 0.0
+residual_dropout_rate: 0.1
+num_blocks: 6
+num_heads: 8
+binding_embedding: False
+kl_weight: 0.0
+enc_layer_indep: 4
+enc_layer_share: 1
+dec_layer_indep: 4
+dec_layer_share: 1
+generate_maxlen: 50
+lock_enc_embed: True
+multi_channel_encoder: True
+
+train:
+    devices: '0,1,2,3,4,5,6,7'
+    src_path: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT/train.tok.bpe.clean.32000.lf.50.en.shuf.mono'
+    dst_path: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT/train.tok.bpe.clean.32000.lf.50.de.shuf.mono'
+    s_domain_generated_data: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT/s_domain_generated_data'
+    t_domain_generated_data: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT/t_domain_generated_data' 
+    tokens_per_batch:  5000
+    max_length: 50
+    num_epochs: 1
+    logdir: './generate_samples.log'
+    save_freq: 1000
+    summary_freq: 100
+    grads_clip: 5.0
+    optimizer: 'adam_decay'
+    learning_rate: 0.00001
+    gan_learning_rate: 0.00001
+    learning_rate_warmup_steps: 10000
+    warm_steps: 1000
+    label_smoothing: 0.1
+    batch_size: 256
+    shared_embedding: False
+    shuffle_k: 5
+    modelFile: '../experience/unSupervisedNMT/ai_challenger/ende-s4-i0_multiChannel_divide/model_epoch_1_step_307000'

@@ -1,0 +1,44 @@
+---
+src_vocab: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT_generate_samples/vocab.bpe.32000'
+dst_vocab: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT_generate_samples/vocab.bpe.32000'
+src_vocab_size_a: 32000
+dst_vocab_size_a: 32000
+src_vocab_size_b: 32000
+dst_vocab_size_b: 32000
+hidden_units: 512
+scale_embedding: True
+attention_dropout_rate: 0.0
+residual_dropout_rate: 0.1
+num_blocks: 6
+num_heads: 8
+binding_embedding: False
+kl_weight: 0.0
+enc_layer_indep: 4
+enc_layer_share: 1
+dec_layer_indep: 4
+dec_layer_share: 1
+generate_maxlen: 50
+lock_enc_embed: True
+multi_channel_encoder: True
+
+train:
+    logdir: './dis_log'
+    dis_src_vocab: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT/data_for_dis_pretrain/vocab.bpe.32000.pkl' 
+    dis_max_epoches: 2
+    dis_dispFreq: 1
+    dis_saveFreq: 100
+    dis_devFreq: 100
+    dis_batch_size: 100
+    dis_saveto: '../experience/unSupervisedNMT/ai_challenger/dis_pretrain/dis_mono_trg'
+    dis_reshuffle: True
+    devices: 'gpu-0-1-2-3-4-5-6-7'
+    dis_max_len: 50
+    s_domain_data: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT/data_for_dis_pretrain/train.tok.bpe.clean.32000.lf.50.de.shuf.mono'
+    s_domain_generated_data: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT/data_for_dis_pretrain/t_domain_generated_data'
+    dev_s_domain_data: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT/data_for_dis_pretrain/dev_t_domain_data'
+    dev_s_domain_generated_data: '/home/user/zy/dl4mt/corpus/lf_50_for_unsupervised_NMT/data_for_dis_pretrain/dev_t_domain_generated_data'
+    dis_reload: True
+    dis_clip_c: 1.0
+    dis_dim_word: 512
+    dis_optimizer: 'rmsprop'
+    text_scope: 'discnn_trg'

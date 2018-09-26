@@ -13,5 +13,3 @@ Requirements: Tensorflow 1.2.0, python 2.x
  
   Beyond the published paper, we also find that the fixed word embedding is a bottleneck for improving the performance of unsupervised NMT. To handle this problem, we propose the learnable word embeddings beyond the fixed embedding. Experiments show that the learnable word embeddings can achieve up to +1.0 BLEU points improvement on En-De translation. Moreover, it accelerates the model convergence. 
   
-On going research:
-    Has anybody re-produced the results of the paper "phrase-based and neural unsupervised machine translation"? If exists, please join the discussion in the issuse #1.
